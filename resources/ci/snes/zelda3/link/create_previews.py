@@ -11,7 +11,7 @@ from ZSPR import ZSPR
 
 local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
 site_resources = os.path.join(".","snes","zelda3","link")
-online_resources = "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link"
+online_resources = "https://snesrev.github.io/sprites-gfx/snes/zelda3/link"
 
 def strtr(s, repl):
   pattern = '|'.join(map(re.escape, sorted(repl, key=len, reverse=True)))

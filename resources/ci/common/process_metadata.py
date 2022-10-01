@@ -26,7 +26,7 @@ def csv_from_excel(sheet,outbound):
 def process_metadata(console,game,sprite):
   local_resources = os.path.join(".","resources","ci",console,game,sprite)
   site_resources = os.path.join(".",console,game,sprite)
-  online_resources = (f"https://miketrethewey.github.io/alttpr-collection/{console}/{game}/{sprite}")
+  online_resources = (f"https://snesrev.github.io/sprites-gfx/{console}/{game}/{sprite}")
 
   csv_sheet = []
 

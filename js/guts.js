@@ -17,7 +17,7 @@ function listingPage(consoleSlug="",gameSlug="",spriteSlug="") {
 
   data = {
     "parent":   { "name": "ALttPR", "url": "https://alttpr.com" },
-    "project":  { "name": "ALttPR Collection", "url": "https://miketrethewey.github.io/alttpr-collection" },
+    "project":  { "name": "ALttPR Collection", "url": "https://snesrev.github.io/sprites-gfx" },
     "console":  { "slug": consoleSlug },
     "game":     { "slug": gameSlug },
     "sprite":   { "slug": spriteSlug }

@@ -7,7 +7,7 @@ from .ZSPR import ZSPR
 def get_local_metadata():
     (console,game,sprite) = ("snes","zelda3","link")
     site_resources = os.path.join(".",console,game,sprite)
-    online_resources = (f"https://miketrethewey.github.io/alttpr-collection/{console}/{game}/{sprite}")
+    online_resources = (f"https://snesrev.github.io/sprites-gfx/{console}/{game}/{sprite}")
 
     print("Getting metadata from ZSPRs")
     spritesmeta = OrderedDict()

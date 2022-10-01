@@ -16,7 +16,7 @@ def csv_from_excel(sheet,outbound):
 
 local_resources = os.path.join(".","resources","ci","snes","zelda3","link")
 site_resources = os.path.join(".","snes","zelda3","link")
-online_resources = "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link"
+online_resources = "https://snesrev.github.io/sprites-gfx/snes/zelda3/link"
 
 print("Reading XLS")
 workbook = xlrd.open_workbook(os.path.join(local_resources,"sprites.xls"))

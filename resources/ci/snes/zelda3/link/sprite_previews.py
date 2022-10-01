@@ -12,7 +12,7 @@ from .ZSPR import ZSPR
 (console,game,sprite) = ("snes","zelda3","link")
 local_resources = os.path.join(".","resources","ci",console,game,sprite)
 site_resources = os.path.join(".",console,game,sprite)
-online_resources = (f"https://miketrethewey.github.io/alttpr-collection/{console}/{game}/{sprite}")
+online_resources = (f"https://snesrev.github.io/sprites-gfx/{console}/{game}/{sprite}")
 
 def add_thumb(thumb,png,height,x,y):
     thisThumb = Image.open(thumb).resize((16,height),0)
