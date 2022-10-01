@@ -3,7 +3,7 @@
   width:            16px;
   height:           24px;
   vertical-align:   bottom;
-  background-image: url(https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.28.png);
+  background-image: url(https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.2.png);
 }
 .icon-custom-Random                    {background-position:0 0}
 .icon-custom-Link                      {background-position:-100.000000% 0}/*   1/343 */
@@ -14,8 +14,8 @@
 .icon-custom-Alice                     {background-position: -98.542274% 0}/*   6/343 */
 .icon-custom-AngryVideoGameNerd        {background-position: -98.250729% 0}/*   7/343 */
 .icon-custom-Arcane                    {background-position: -97.959184% 0}/*   8/343 */
-.icon-custom-Ark(NoCape)               {background-position: -97.667638% 0}/*   9/343 */
-.icon-custom-Ark(Cape)                 {background-position: -97.376093% 0}/*  10/343 */
+.icon-custom-Ark-NoCape                {background-position: -97.667638% 0}/*   9/343 */
+.icon-custom-Ark-Cape                  {background-position: -97.376093% 0}/*  10/343 */
 .icon-custom-Arrghus                   {background-position: -97.084548% 0}/*  11/343 */
 .icon-custom-Astronaut                 {background-position: -96.793003% 0}/*  12/343 */
 .icon-custom-Asuna                     {background-position: -96.501458% 0}/*  13/343 */
@@ -37,7 +37,7 @@
 .icon-custom-BocotheChocobo            {background-position: -91.836735% 0}/*  29/343 */
 .icon-custom-Boo2                      {background-position: -91.545190% 0}/*  30/343 */
 .icon-custom-Boo                       {background-position: -91.253644% 0}/*  31/343 */
-.icon-custom-Bottleo'Goo               {background-position: -90.962099% 0}/*  32/343 */
+.icon-custom-BottleoGoo                {background-position: -90.962099% 0}/*  32/343 */
 .icon-custom-BotWLink                  {background-position: -90.670554% 0}/*  33/343 */
 .icon-custom-BotWZelda                 {background-position: -90.379009% 0}/*  34/343 */
 .icon-custom-Bowser                    {background-position: -90.087464% 0}/*  35/343 */
@@ -47,8 +47,8 @@
 .icon-custom-Brian                     {background-position: -88.921283% 0}/*  39/343 */
 .icon-custom-Broccoli                  {background-position: -88.629738% 0}/*  40/343 */
 .icon-custom-Bronzor                   {background-position: -88.338192% 0}/*  41/343 */
-.icon-custom-B.S.Boy                   {background-position: -88.046647% 0}/*  42/343 */
-.icon-custom-B.S.Girl                  {background-position: -87.755102% 0}/*  43/343 */
+.icon-custom-BSBoy                     {background-position: -88.046647% 0}/*  42/343 */
+.icon-custom-BSGirl                    {background-position: -87.755102% 0}/*  43/343 */
 .icon-custom-Bubbles                   {background-position: -87.463557% 0}/*  44/343 */
 .icon-custom-BulletBill                {background-position: -87.172012% 0}/*  45/343 */
 .icon-custom-Buttercup                 {background-position: -86.880466% 0}/*  46/343 */
@@ -74,17 +74,17 @@
 .icon-custom-Crewmate                  {background-position: -81.049563% 0}/*  66/343 */
 .icon-custom-Cucco                     {background-position: -80.758017% 0}/*  67/343 */
 .icon-custom-Cursor                    {background-position: -80.466472% 0}/*  68/343 */
-.icon-custom-D.Owls                    {background-position: -80.174927% 0}/*  69/343 */
+.icon-custom-DOwls                     {background-position: -80.174927% 0}/*  69/343 */
 .icon-custom-DarkPanda                 {background-position: -79.883382% 0}/*  70/343 */
 .icon-custom-DarkBoy                   {background-position: -79.591837% 0}/*  71/343 */
 .icon-custom-DarkGirl                  {background-position: -79.300292% 0}/*  72/343 */
-.icon-custom-DarkLink(Tunic)           {background-position: -79.008746% 0}/*  73/343 */
+.icon-custom-DarkLink-Tunic            {background-position: -79.008746% 0}/*  73/343 */
 .icon-custom-DarkLink                  {background-position: -78.717201% 0}/*  74/343 */
 .icon-custom-DarkSwatchy               {background-position: -78.425656% 0}/*  75/343 */
 .icon-custom-DarkZelda                 {background-position: -78.134111% 0}/*  76/343 */
 .icon-custom-DarkZora                  {background-position: -77.842566% 0}/*  77/343 */
-.icon-custom-Deadpool(Mythic)          {background-position: -77.551020% 0}/*  78/343 */
-.icon-custom-Deadpool(SirCzah)         {background-position: -77.259475% 0}/*  79/343 */
+.icon-custom-Deadpool-Mythic           {background-position: -77.551020% 0}/*  78/343 */
+.icon-custom-Deadpool-SirCzah          {background-position: -77.259475% 0}/*  79/343 */
 .icon-custom-Deadrock                  {background-position: -76.967930% 0}/*  80/343 */
 .icon-custom-Decidueye                 {background-position: -76.676385% 0}/*  81/343 */
 .icon-custom-Dekar                     {background-position: -76.384840% 0}/*  82/343 */
@@ -133,10 +133,10 @@
 .icon-custom-HeroOfHyrule              {background-position: -63.848397% 0}/* 125/343 */
 .icon-custom-Hidari                    {background-position: -63.556851% 0}/* 126/343 */
 .icon-custom-HintTile                  {background-position: -63.265306% 0}/* 127/343 */
-.icon-custom-Hoarder(Bush)             {background-position: -62.973761% 0}/* 128/343 */
-.icon-custom-Hoarder(Pot)              {background-position: -62.682216% 0}/* 129/343 */
-.icon-custom-Hoarder(Rock)             {background-position: -62.390671% 0}/* 130/343 */
-.icon-custom-HollowKnight(Malmo/Winter){background-position: -62.099125% 0}/* 131/343 */
+.icon-custom-Hoarder-Bush              {background-position: -62.973761% 0}/* 128/343 */
+.icon-custom-Hoarder-Pot               {background-position: -62.682216% 0}/* 129/343 */
+.icon-custom-Hoarder-Rock              {background-position: -62.390671% 0}/* 130/343 */
+.icon-custom-HollowKnight-Malmo-Winter {background-position: -62.099125% 0}/* 131/343 */
 .icon-custom-HollowKnight              {background-position: -61.807580% 0}/* 132/343 */
 .icon-custom-HomerSimpson              {background-position: -61.516035% 0}/* 133/343 */
 .icon-custom-Hotdog                    {background-position: -61.224490% 0}/* 134/343 */
@@ -160,7 +160,7 @@
 .icon-custom-KingGothalion             {background-position: -55.976676% 0}/* 152/343 */
 .icon-custom-KingGraham                {background-position: -55.685131% 0}/* 153/343 */
 .icon-custom-Kinu                      {background-position: -55.393586% 0}/* 154/343 */
-.icon-custom-Kirby(Dreamland3)         {background-position: -55.102041% 0}/* 155/343 */
+.icon-custom-Kirby-Dreamland3          {background-position: -55.102041% 0}/* 155/343 */
 .icon-custom-Kirby                     {background-position: -54.810496% 0}/* 156/343 */
 .icon-custom-Kore8                     {background-position: -54.518950% 0}/* 157/343 */
 .icon-custom-Korok                     {background-position: -54.227405% 0}/* 158/343 */
@@ -181,15 +181,15 @@
 .icon-custom-Luffy                     {background-position: -49.854227% 0}/* 173/343 */
 .icon-custom-Luigi                     {background-position: -49.562682% 0}/* 174/343 */
 .icon-custom-LunaMaindo                {background-position: -49.271137% 0}/* 175/343 */
-.icon-custom-Lynel(BotW)               {background-position: -48.979592% 0}/* 176/343 */
+.icon-custom-Lynel-BotW                {background-position: -48.979592% 0}/* 176/343 */
 .icon-custom-Madeline                  {background-position: -48.688047% 0}/* 177/343 */
 .icon-custom-Magus                     {background-position: -48.396501% 0}/* 178/343 */
 .icon-custom-Maiden                    {background-position: -48.104956% 0}/* 179/343 */
-.icon-custom-Mallow(Cat)               {background-position: -47.813411% 0}/* 180/343 */
+.icon-custom-Mallow-Cat                {background-position: -47.813411% 0}/* 180/343 */
 .icon-custom-MangaLink                 {background-position: -47.521866% 0}/* 181/343 */
 .icon-custom-MapleQueen                {background-position: -47.230321% 0}/* 182/343 */
 .icon-custom-Marin                     {background-position: -46.938776% 0}/* 183/343 */
-.icon-custom-Mario(Classic)            {background-position: -46.647230% 0}/* 184/343 */
+.icon-custom-Mario-Classic             {background-position: -46.647230% 0}/* 184/343 */
 .icon-custom-TanookiMario              {background-position: -46.355685% 0}/* 185/343 */
 .icon-custom-MarioandCappy             {background-position: -46.064140% 0}/* 186/343 */
 .icon-custom-MarisaKirisame            {background-position: -45.772595% 0}/* 187/343 */
@@ -210,7 +210,7 @@
 .icon-custom-MomijiInubashiri          {background-position: -41.399417% 0}/* 202/343 */
 .icon-custom-Moosh                     {background-position: -41.107872% 0}/* 203/343 */
 .icon-custom-Mouse                     {background-position: -40.816327% 0}/* 204/343 */
-.icon-custom-Ms.PaintDog               {background-position: -40.524781% 0}/* 205/343 */
+.icon-custom-MsPaintDog                {background-position: -40.524781% 0}/* 205/343 */
 .icon-custom-PowerUpwithPrideMushroom  {background-position: -40.233236% 0}/* 206/343 */
 .icon-custom-NatureLink                {background-position: -39.941691% 0}/* 207/343 */
 .icon-custom-Navi                      {background-position: -39.650146% 0}/* 208/343 */
@@ -267,9 +267,9 @@
 .icon-custom-Ryu                       {background-position: -24.781341% 0}/* 259/343 */
 .icon-custom-SailorMoon                {background-position: -24.489796% 0}/* 260/343 */
 .icon-custom-Saitama                   {background-position: -24.198251% 0}/* 261/343 */
-.icon-custom-Samus(SuperMetroid)       {background-position: -23.906706% 0}/* 262/343 */
+.icon-custom-Samus-SuperMetroid        {background-position: -23.906706% 0}/* 262/343 */
 .icon-custom-Samus                     {background-position: -23.615160% 0}/* 263/343 */
-.icon-custom-Samus(Classic)            {background-position: -23.323615% 0}/* 264/343 */
+.icon-custom-Samus-Classic             {background-position: -23.323615% 0}/* 264/343 */
 .icon-custom-SantaHatLink              {background-position: -23.032070% 0}/* 265/343 */
 .icon-custom-SantaLink                 {background-position: -22.740525% 0}/* 266/343 */
 .icon-custom-Scholar                   {background-position: -22.448980% 0}/* 267/343 */
@@ -291,7 +291,7 @@
 .icon-custom-HyruleSoldier             {background-position: -17.784257% 0}/* 283/343 */
 .icon-custom-SonictheHedgehog          {background-position: -17.492711% 0}/* 284/343 */
 .icon-custom-Sora                      {background-position: -17.201166% 0}/* 285/343 */
-.icon-custom-Sora(KH1)                 {background-position: -16.909621% 0}/* 286/343 */
+.icon-custom-Sora-KH1                  {background-position: -16.909621% 0}/* 286/343 */
 .icon-custom-SpongeBobSquarePants      {background-position: -16.618076% 0}/* 287/343 */
 .icon-custom-Squall                    {background-position: -16.326531% 0}/* 288/343 */
 .icon-custom-Squirrel                  {background-position: -16.034985% 0}/* 289/343 */
@@ -308,44 +308,44 @@
 .icon-custom-Swatchy                   {background-position: -12.827988% 0}/* 300/343 */
 .icon-custom-TASBot                    {background-position: -12.536443% 0}/* 301/343 */
 .icon-custom-TeaTime                   {background-position: -12.244898% 0}/* 302/343 */
-.icon-custom-Terra(Esper)              {background-position: -11.953353% 0}/* 303/343 */
+.icon-custom-Terra-Esper               {background-position: -11.953353% 0}/* 303/343 */
 .icon-custom-Terry                     {background-position: -11.661808% 0}/* 304/343 */
 .icon-custom-TetraSheet                {background-position: -11.370262% 0}/* 305/343 */
 .icon-custom-TGH                       {background-position: -11.078717% 0}/* 306/343 */
 .icon-custom-Thief                     {background-position: -10.787172% 0}/* 307/343 */
 .icon-custom-ThinkDorm                 {background-position: -10.495627% 0}/* 308/343 */
 .icon-custom-Thomcrow                  {background-position: -10.204082% 0}/* 309/343 */
-.icon-custom-Tile                      {background-position: -9.912536% 0}/* 310/343 */
-.icon-custom-Tingle                    {background-position: -9.620991% 0}/* 311/343 */
-.icon-custom-TMNT                      {background-position: -9.329446% 0}/* 312/343 */
-.icon-custom-Toad                      {background-position: -9.037901% 0}/* 313/343 */
-.icon-custom-Toadette                  {background-position: -8.746356% 0}/* 314/343 */
-.icon-custom-CaptainToadette           {background-position: -8.454810% 0}/* 315/343 */
-.icon-custom-TotemLinks                {background-position: -8.163265% 0}/* 316/343 */
-.icon-custom-TrogdortheBurninator      {background-position: -7.871720% 0}/* 317/343 */
-.icon-custom-TPZelda                   {background-position: -7.580175% 0}/* 318/343 */
-.icon-custom-TwoFaced                  {background-position: -7.288630% 0}/* 319/343 */
-.icon-custom-TytheTasmanianTiger       {background-position: -6.997085% 0}/* 320/343 */
-.icon-custom-Ultros                    {background-position: -6.705539% 0}/* 321/343 */
-.icon-custom-Valeera                   {background-position: -6.413994% 0}/* 322/343 */
-.icon-custom-VanillaLink               {background-position: -6.122449% 0}/* 323/343 */
-.icon-custom-Vaporeon                  {background-position: -5.830904% 0}/* 324/343 */
-.icon-custom-Vegeta                    {background-position: -5.539359% 0}/* 325/343 */
-.icon-custom-Vera                      {background-position: -5.247813% 0}/* 326/343 */
-.icon-custom-Vitreous                  {background-position: -4.956268% 0}/* 327/343 */
-.icon-custom-Vivi                      {background-position: -4.664723% 0}/* 328/343 */
-.icon-custom-Vivian                    {background-position: -4.373178% 0}/* 329/343 */
-.icon-custom-Wario                     {background-position: -4.081633% 0}/* 330/343 */
-.icon-custom-WhiteMage                 {background-position: -3.790087% 0}/* 331/343 */
-.icon-custom-Will                      {background-position: -3.498542% 0}/* 332/343 */
-.icon-custom-Wizzrobe                  {background-position: -3.206997% 0}/* 333/343 */
-.icon-custom-WolfLink(Festive)         {background-position: -2.915452% 0}/* 334/343 */
-.icon-custom-WolfLink(TP)              {background-position: -2.623907% 0}/* 335/343 */
-.icon-custom-Yoshi                     {background-position: -2.332362% 0}/* 336/343 */
-.icon-custom-YunicaTovah               {background-position: -2.040816% 0}/* 337/343 */
-.icon-custom-Zandra                    {background-position: -1.749271% 0}/* 338/343 */
-.icon-custom-ZebraUnicorn              {background-position: -1.457726% 0}/* 339/343 */
-.icon-custom-Zeckemyro                 {background-position: -1.166181% 0}/* 340/343 */
-.icon-custom-Zelda                     {background-position: -0.874636% 0}/* 341/343 */
-.icon-custom-ZeroSuitSamus             {background-position: -0.583090% 0}/* 342/343 */
-.icon-custom-Zora                      {background-position: -0.291545% 0}/* 343/343 */
+.icon-custom-Tile                      {background-position:  -9.912536% 0}/* 310/343 */
+.icon-custom-Tingle                    {background-position:  -9.620991% 0}/* 311/343 */
+.icon-custom-TMNT                      {background-position:  -9.329446% 0}/* 312/343 */
+.icon-custom-Toad                      {background-position:  -9.037901% 0}/* 313/343 */
+.icon-custom-Toadette                  {background-position:  -8.746356% 0}/* 314/343 */
+.icon-custom-CaptainToadette           {background-position:  -8.454810% 0}/* 315/343 */
+.icon-custom-TotemLinks                {background-position:  -8.163265% 0}/* 316/343 */
+.icon-custom-TrogdortheBurninator      {background-position:  -7.871720% 0}/* 317/343 */
+.icon-custom-TPZelda                   {background-position:  -7.580175% 0}/* 318/343 */
+.icon-custom-TwoFaced                  {background-position:  -7.288630% 0}/* 319/343 */
+.icon-custom-TytheTasmanianTiger       {background-position:  -6.997085% 0}/* 320/343 */
+.icon-custom-Ultros                    {background-position:  -6.705539% 0}/* 321/343 */
+.icon-custom-Valeera                   {background-position:  -6.413994% 0}/* 322/343 */
+.icon-custom-VanillaLink               {background-position:  -6.122449% 0}/* 323/343 */
+.icon-custom-Vaporeon                  {background-position:  -5.830904% 0}/* 324/343 */
+.icon-custom-Vegeta                    {background-position:  -5.539359% 0}/* 325/343 */
+.icon-custom-Vera                      {background-position:  -5.247813% 0}/* 326/343 */
+.icon-custom-Vitreous                  {background-position:  -4.956268% 0}/* 327/343 */
+.icon-custom-Vivi                      {background-position:  -4.664723% 0}/* 328/343 */
+.icon-custom-Vivian                    {background-position:  -4.373178% 0}/* 329/343 */
+.icon-custom-Wario                     {background-position:  -4.081633% 0}/* 330/343 */
+.icon-custom-WhiteMage                 {background-position:  -3.790087% 0}/* 331/343 */
+.icon-custom-Will                      {background-position:  -3.498542% 0}/* 332/343 */
+.icon-custom-Wizzrobe                  {background-position:  -3.206997% 0}/* 333/343 */
+.icon-custom-WolfLink-Festive          {background-position:  -2.915452% 0}/* 334/343 */
+.icon-custom-WolfLink-TP               {background-position:  -2.623907% 0}/* 335/343 */
+.icon-custom-Yoshi                     {background-position:  -2.332362% 0}/* 336/343 */
+.icon-custom-YunicaTovah               {background-position:  -2.040816% 0}/* 337/343 */
+.icon-custom-Zandra                    {background-position:  -1.749271% 0}/* 338/343 */
+.icon-custom-ZebraUnicorn              {background-position:  -1.457726% 0}/* 339/343 */
+.icon-custom-Zeckemyro                 {background-position:  -1.166181% 0}/* 340/343 */
+.icon-custom-Zelda                     {background-position:  -0.874636% 0}/* 341/343 */
+.icon-custom-ZeroSuitSamus             {background-position:  -0.583090% 0}/* 342/343 */
+.icon-custom-Zora                      {background-position:  -0.291545% 0}/* 343/343 */

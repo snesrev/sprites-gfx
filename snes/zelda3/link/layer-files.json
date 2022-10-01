@@ -1,41 +1,4 @@
 {
-  "aseprite": {
-    "app": "Aseprite",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.aseprite",
-    "site": "https://www.aseprite.org/",
-    "repo": "https://github.com/aseprite/aseprite"
-  },
-  "gal": {
-    "app": "GraphicsGale",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.gal",
-    "site": "https://graphicsgale.com/"
-  },
-  "kra": {
-    "app": "Krita",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.kra",
-    "site": "https://krita.org/",
-    "repo": "https://invent.kde.org/kde/krita"
-  },
-  "pdn": {
-    "app": "Paint.NET",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.pdn",
-    "site": "https://www.getpaint.net/"
-  },
-  "png": {
-    "app": "Various",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/001.link.1.png"
-  },
-  "psd": {
-    "app": "Adobe Photoshop",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.psd",
-    "site": "https://www.adobe.com/products/photoshop.html"
-  },
-  "xcf": {
-    "app": "GIMP",
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/layer-files/link_layers.xcf",
-    "site": "https://www.gimp.org/",
-    "repo": "https://gitlab.gnome.org/GNOME/gimp/"
-  },
   "vt": {
     "app": "A Link to the Past Randomizer 'Official' Sprites",
     "file": "http://alttpr.com/sprites",

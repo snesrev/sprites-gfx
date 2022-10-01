@@ -10,7 +10,7 @@ function forkMe() {
   let a = $("<a>")
     .attr({
       "class": "github-fork-ribbon right-top",
-      "href": "https://github.com/miketrethewey/alttpr-collection/blob/gh-pages/CONTRIBUTING.md",
+      "href": "https://github.com/snesrev/sprites-gfx/blob/gh-pages/CONTRIBUTING.md",
       "data-ribbon": title,
       "title": title
     })

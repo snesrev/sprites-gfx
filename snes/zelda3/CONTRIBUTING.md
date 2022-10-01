@@ -1,8 +1,8 @@
-# alttpr-collection
+# sprites-gfx
 
-## [Contributing](https://github.com/miketrethewey/alttpr-collection/blob/gh-pages/CONTRIBUTING.md)
+## [Contributing](https://github.com/snesrev/sprites-gfx/blob/gh-pages/CONTRIBUTING.md)
 
-### [SNES Sprites](https://github.com/miketrethewey/alttpr-collection/blob/gh-pages/snes/CONTRIBUTING.md)
+### [SNES Sprites](https://github.com/snesrev/sprites-gfx/blob/gh-pages/snes/CONTRIBUTING.md)
 
 #### The Legend of Zelda: A Link to the Past
 

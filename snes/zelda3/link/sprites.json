@@ -1,8 +1,8 @@
 [
   {
-    "class": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.28.png",
-    "selector": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.28.png",
-    "version": "31.0.8.x.28"
+    "class": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/previews/sprites.class.31.0.8.x.2.png",
+    "selector": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/previews/sprites.31.0.8.x.2.png",
+    "version": "31.0.8.x.2"
   },
   {
     "name": "Link",
@@ -10,8 +10,8 @@
     "short_slug": "001.link",
     "slug": "001.link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/001.link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/001.link.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/001.link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/001.link.1.png",
     "tags": {
       "character": [
         "Link"
@@ -47,8 +47,8 @@
     "short_slug": "4slink-armors",
     "slug": "4slink-armors.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/4slink-armors.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/4slink-armors.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/4slink-armors.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/4slink-armors.1.png",
     "tags": {
       "character": [
         "Link"
@@ -84,8 +84,8 @@
     "short_slug": "abigail",
     "slug": "abigail.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/abigail.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/abigail.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/abigail.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/abigail.1.png",
     "tags": {
       "character": [
         "Abigail"
@@ -120,8 +120,8 @@
     "short_slug": "adol",
     "slug": "adol.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/adol.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/adol.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/adol.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/adol.1.png",
     "tags": {
       "character": [
         "Adol Christin"
@@ -153,8 +153,8 @@
     "short_slug": "aggretsuko",
     "slug": "aggretsuko.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/aggretsuko.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/aggretsuko.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/aggretsuko.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/aggretsuko.1.png",
     "tags": {
       "gender": [
         "Female"
@@ -181,8 +181,8 @@
     "short_slug": "alice",
     "slug": "alice.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/alice.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/alice.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/alice.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/alice.1.png",
     "tags": {
       "character": [
         "Alice"
@@ -217,8 +217,8 @@
     "short_slug": "angry-video-game-nerd",
     "slug": "angry-video-game-nerd.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/angry-video-game-nerd.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/angry-video-game-nerd.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/angry-video-game-nerd.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/angry-video-game-nerd.1.png",
     "tags": {
       "character": [
         "Angry Video Game Nerd"
@@ -250,8 +250,8 @@
     "short_slug": "arcane",
     "slug": "arcane.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/arcane.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/arcane.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/arcane.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/arcane.1.png",
     "tags": {
       "origin": [
         "Personality"
@@ -270,8 +270,8 @@
     "short_slug": "ark",
     "slug": "ark.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ark.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ark.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ark.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ark.1.png",
     "tags": {
       "character": [
         "Ark"
@@ -306,8 +306,8 @@
     "short_slug": "ark-dorana",
     "slug": "ark-dorana.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ark-dorana.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ark-dorana.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ark-dorana.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ark-dorana.2.png",
     "tags": {
       "character": [
         "Ark"
@@ -343,8 +343,8 @@
     "short_slug": "arrghus",
     "slug": "arrghus.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/arrghus.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/arrghus.3.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/arrghus.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/arrghus.3.png",
     "tags": {
       "character": [
         "Arrghus"
@@ -379,8 +379,8 @@
     "short_slug": "astronaut",
     "slug": "astronaut.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/astronaut.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/astronaut.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/astronaut.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/astronaut.1.png",
     "tags": {
       "origin": [
         "IRL"
@@ -400,8 +400,8 @@
     "short_slug": "asuna",
     "slug": "asuna.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/asuna.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/asuna.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/asuna.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/asuna.2.png",
     "tags": {
       "gender": [
         "Female"
@@ -429,8 +429,8 @@
     "short_slug": "badeline",
     "slug": "badeline.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/badeline.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/badeline.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/badeline.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/badeline.1.png",
     "tags": {
       "character": [
         "Badeline"
@@ -466,8 +466,8 @@
     "short_slug": "bananas-in-pyjamas",
     "slug": "bananas-in-pyjamas.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bananas-in-pyjamas.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bananas-in-pyjamas.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bananas-in-pyjamas.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bananas-in-pyjamas.1.png",
     "tags": {
       "character": [
         "B1"
@@ -499,8 +499,8 @@
     "short_slug": "bandit",
     "slug": "bandit.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bandit.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bandit.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bandit.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bandit.1.png",
     "tags": {
       "character": [
         "Bandit"
@@ -532,8 +532,8 @@
     "short_slug": "batman",
     "slug": "batman.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/batman.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/batman.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/batman.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/batman.1.png",
     "tags": {
       "character": [
         "Batman"
@@ -565,8 +565,8 @@
     "short_slug": "beau",
     "slug": "beau.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/beau.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/beau.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/beau.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/beau.1.png",
     "tags": {
       "character": [
         "Beau"
@@ -598,8 +598,8 @@
     "short_slug": "bewp",
     "slug": "bewp.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bewp.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bewp.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bewp.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bewp.1.png",
     "tags": {
       "origin": [
         "Personality"
@@ -622,8 +622,8 @@
     "short_slug": "bigkey",
     "slug": "bigkey.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bigkey.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bigkey.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bigkey.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bigkey.2.png",
     "tags": {
       "game": [
         "The Legend of Zelda: A Link to the Past"
@@ -650,8 +650,8 @@
     "short_slug": "birb",
     "slug": "birb.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birb.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/birb.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/birb.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/birb.2.png",
     "tags": {
       "origin": [
         "Personality"
@@ -675,8 +675,8 @@
     "short_slug": "birdo",
     "slug": "birdo.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/birdo.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/birdo.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/birdo.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/birdo.1.png",
     "tags": {
       "character": [
         "Birdo"
@@ -711,8 +711,8 @@
     "short_slug": "blackmage",
     "slug": "blackmage.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blackmage.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/blackmage.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/blackmage.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/blackmage.1.png",
     "tags": {
       "character": [
         "Black Mage"
@@ -747,8 +747,8 @@
     "short_slug": "blacksmithlink",
     "slug": "blacksmithlink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blacksmithlink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/blacksmithlink.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/blacksmithlink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/blacksmithlink.1.png",
     "tags": {
       "character": [
         "Link"
@@ -784,8 +784,8 @@
     "short_slug": "blazer",
     "slug": "blazer.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blazer.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/blazer.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/blazer.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/blazer.1.png",
     "tags": {
       "character": [
         "Blazer"
@@ -821,8 +821,8 @@
     "short_slug": "blossom",
     "slug": "blossom.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/blossom.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/blossom.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/blossom.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/blossom.1.png",
     "tags": {
       "character": [
         "Blossom"
@@ -853,8 +853,8 @@
     "short_slug": "bob",
     "slug": "bob.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bob.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bob.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bob.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bob.2.png",
     "tags": {
       "game": [
         "The Legend of Zelda: A Link to the Past"
@@ -889,8 +889,8 @@
     "short_slug": "bobross",
     "slug": "bobross.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bobross.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bobross.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bobross.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bobross.1.png",
     "tags": {
       "character": [
         "Bob Ross"
@@ -918,8 +918,8 @@
     "short_slug": "boco",
     "slug": "boco.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boco.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/boco.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/boco.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/boco.2.png",
     "tags": {
       "game": [
         "Final Fantasy"
@@ -943,8 +943,8 @@
     "short_slug": "boo",
     "slug": "boo.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/boo.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/boo.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/boo.2.png",
     "tags": {
       "character": [
         "Boo"
@@ -976,8 +976,8 @@
     "short_slug": "boo-two",
     "slug": "boo-two.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/boo-two.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/boo-two.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/boo-two.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/boo-two.1.png",
     "tags": {
       "character": [
         "Boo"
@@ -1009,8 +1009,8 @@
     "short_slug": "bottle_o_goo",
     "slug": "bottle_o_goo.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bottle_o_goo.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bottle_o_goo.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bottle_o_goo.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bottle_o_goo.1.png",
     "tags": {
       "game": [
         "The Legend of Zelda: A Link to the Past"
@@ -1041,8 +1041,8 @@
     "short_slug": "botw-link",
     "slug": "botw-link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/botw-link.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/botw-link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/botw-link.1.png",
     "tags": {
       "character": [
         "Link"
@@ -1078,8 +1078,8 @@
     "short_slug": "botw-zelda",
     "slug": "botw-zelda.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/botw-zelda.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/botw-zelda.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/botw-zelda.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/botw-zelda.1.png",
     "tags": {
       "character": [
         "Zelda"
@@ -1115,8 +1115,8 @@
     "short_slug": "bowser",
     "slug": "bowser.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowser.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bowser.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bowser.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bowser.1.png",
     "tags": {
       "character": [
         "Bowser"
@@ -1147,8 +1147,8 @@
     "short_slug": "bowsette",
     "slug": "bowsette.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bowsette.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bowsette.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bowsette.1.png",
     "tags": {
       "character": [
         "Bowsette"
@@ -1175,8 +1175,8 @@
     "short_slug": "bowsette-red",
     "slug": "bowsette-red.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bowsette-red.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bowsette-red.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bowsette-red.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bowsette-red.1.png",
     "tags": {
       "character": [
         "Bowsette"
@@ -1203,8 +1203,8 @@
     "short_slug": "branch",
     "slug": "branch.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/branch.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/branch.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/branch.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/branch.1.png",
     "tags": {
       "character": [
         "Branch"
@@ -1228,8 +1228,8 @@
     "short_slug": "brian",
     "slug": "brian.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/brian.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/brian.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/brian.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/brian.1.png",
     "tags": {
       "character": [
         "Brian"
@@ -1265,8 +1265,8 @@
     "short_slug": "broccoli",
     "slug": "broccoli.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/broccoli.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/broccoli.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/broccoli.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/broccoli.2.png",
     "tags": {
       "game": [
         "The Legend of Zelda: A Link to the Past"
@@ -1293,8 +1293,8 @@
     "short_slug": "bronzor",
     "slug": "bronzor.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bronzor.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bronzor.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bronzor.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bronzor.2.png",
     "tags": {
       "character": [
         "Bronzor"
@@ -1321,8 +1321,8 @@
     "short_slug": "bsboy",
     "slug": "bsboy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsboy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bsboy.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bsboy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bsboy.1.png",
     "tags": {
       "character": [
         "BS Boy"
@@ -1357,8 +1357,8 @@
     "short_slug": "bsgirl",
     "slug": "bsgirl.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bsgirl.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bsgirl.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bsgirl.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bsgirl.1.png",
     "tags": {
       "character": [
         "BS Girl"
@@ -1393,8 +1393,8 @@
     "short_slug": "bubbles",
     "slug": "bubbles.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bubbles.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bubbles.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bubbles.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bubbles.1.png",
     "tags": {
       "character": [
         "Bubbles"
@@ -1421,8 +1421,8 @@
     "short_slug": "bullet_bill",
     "slug": "bullet_bill.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/bullet_bill.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/bullet_bill.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/bullet_bill.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/bullet_bill.1.png",
     "tags": {
       "character": [
         "Bullet Bill"
@@ -1453,8 +1453,8 @@
     "short_slug": "buttercup",
     "slug": "buttercup.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/buttercup.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/buttercup.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/buttercup.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/buttercup.1.png",
     "tags": {
       "character": [
         "Buttercup"
@@ -1481,8 +1481,8 @@
     "short_slug": "cactuar",
     "slug": "cactuar.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cactuar.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cactuar.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cactuar.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cactuar.1.png",
     "tags": {
       "character": [
         "Cactuar"
@@ -1509,8 +1509,8 @@
     "short_slug": "cadence",
     "slug": "cadence.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cadence.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cadence.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cadence.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cadence.1.png",
     "tags": {
       "character": [
         "Cadence"
@@ -1545,8 +1545,8 @@
     "short_slug": "carlsagan42",
     "slug": "carlsagan42.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/carlsagan42.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/carlsagan42.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/carlsagan42.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/carlsagan42.1.png",
     "tags": {
       "character": [
         "CarlSagan42"
@@ -1577,8 +1577,8 @@
     "short_slug": "casual-zelda",
     "slug": "casual-zelda.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/casual-zelda.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/casual-zelda.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/casual-zelda.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/casual-zelda.1.png",
     "tags": {
       "character": [
         "Zelda"
@@ -1605,8 +1605,8 @@
     "short_slug": "cat",
     "slug": "cat.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cat.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cat.3.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cat.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cat.3.png",
     "tags": {
       "character": [
         "Marvin the Cat"
@@ -1633,8 +1633,8 @@
     "short_slug": "catboo",
     "slug": "catboo.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/catboo.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/catboo.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/catboo.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/catboo.1.png",
     "tags": {
       "character": [
         "Cat Boo"
@@ -1654,8 +1654,8 @@
     "short_slug": "cdilink",
     "slug": "cdilink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cdilink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cdilink.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cdilink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cdilink.1.png",
     "tags": {
       "character": [
         "Link"
@@ -1687,8 +1687,8 @@
     "short_slug": "celes",
     "slug": "celes.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/celes.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/celes.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/celes.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/celes.1.png",
     "tags": {
       "character": [
         "Celes"
@@ -1716,8 +1716,8 @@
     "short_slug": "charizard",
     "slug": "charizard.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/charizard.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/charizard.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/charizard.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/charizard.1.png",
     "tags": {
       "character": [
         "Charizard"
@@ -1740,8 +1740,8 @@
     "short_slug": "cheepcheep",
     "slug": "cheepcheep.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cheepcheep.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cheepcheep.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cheepcheep.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cheepcheep.1.png",
     "tags": {
       "character": [
         "Cheep Cheep"
@@ -1769,8 +1769,8 @@
     "short_slug": "chibity",
     "slug": "chibity.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chibity.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/chibity.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/chibity.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/chibity.1.png",
     "tags": {
       "character": [
         "Chibity"
@@ -1794,8 +1794,8 @@
     "short_slug": "chrizzz",
     "slug": "chrizzz.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/chrizzz.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/chrizzz.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/chrizzz.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/chrizzz.1.png",
     "tags": {
       "character": [
         "Link"
@@ -1819,8 +1819,8 @@
     "short_slug": "cinna",
     "slug": "cinna.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cinna.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cinna.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cinna.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cinna.1.png",
     "tags": {
       "character": [
         "Cinna"
@@ -1844,8 +1844,8 @@
     "short_slug": "cirno",
     "slug": "cirno.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cirno.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cirno.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cirno.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cirno.1.png",
     "tags": {
       "character": [
         "Cirno"
@@ -1873,8 +1873,8 @@
     "short_slug": "clifford",
     "slug": "clifford.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clifford.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/clifford.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/clifford.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/clifford.1.png",
     "tags": {
       "character": [
         "Clifford"
@@ -1901,8 +1901,8 @@
     "short_slug": "clyde",
     "slug": "clyde.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/clyde.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/clyde.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/clyde.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/clyde.1.png",
     "tags": {
       "character": [
         "Clyde"
@@ -1929,8 +1929,8 @@
     "short_slug": "conker",
     "slug": "conker.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/conker.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/conker.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/conker.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/conker.1.png",
     "tags": {
       "character": [
         "Conker"
@@ -1957,8 +1957,8 @@
     "short_slug": "cornelius",
     "slug": "cornelius.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cornelius.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cornelius.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cornelius.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cornelius.1.png",
     "tags": {
       "character": [
         "Cornelius"
@@ -1986,8 +1986,8 @@
     "short_slug": "corona",
     "slug": "corona.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/corona.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/corona.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/corona.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/corona.2.png",
     "tags": {
       "character": [
         "Corona"
@@ -2015,8 +2015,8 @@
     "short_slug": "crewmate",
     "slug": "crewmate.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/crewmate.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/crewmate.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/crewmate.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/crewmate.2.png",
     "tags": {
       "character": [
         "Crewmate"
@@ -2047,8 +2047,8 @@
     "short_slug": "cucco",
     "slug": "cucco.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cucco.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cucco.2.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cucco.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cucco.2.png",
     "tags": {
       "character": [
         "Cucco"
@@ -2080,8 +2080,8 @@
     "short_slug": "cursor",
     "slug": "cursor.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/cursor.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/cursor.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/cursor.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/cursor.1.png",
     "tags": {
       "character": [
         "Cursor"
@@ -2104,8 +2104,8 @@
     "short_slug": "d_owls",
     "slug": "d_owls.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/d_owls.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/d_owls.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/d_owls.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/d_owls.2.png"
   },
   {
     "name": "Dark Panda",
@@ -2113,8 +2113,8 @@
     "short_slug": "dark-panda",
     "slug": "dark-panda.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dark-panda.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/dark-panda.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/dark-panda.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/dark-panda.1.png"
   },
   {
     "name": "Dark Boy",
@@ -2122,8 +2122,8 @@
     "short_slug": "darkboy",
     "slug": "darkboy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkboy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darkboy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darkboy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darkboy.1.png"
   },
   {
     "name": "Dark Girl",
@@ -2131,8 +2131,8 @@
     "short_slug": "darkgirl",
     "slug": "darkgirl.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkgirl.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darkgirl.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darkgirl.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darkgirl.1.png"
   },
   {
     "name": "Dark Link",
@@ -2140,8 +2140,8 @@
     "short_slug": "darklink",
     "slug": "darklink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darklink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darklink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darklink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darklink.1.png"
   },
   {
     "name": "Dark Link (Tunic)",
@@ -2149,8 +2149,8 @@
     "short_slug": "darklink-tunic",
     "slug": "darklink-tunic.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darklink-tunic.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darklink-tunic.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darklink-tunic.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darklink-tunic.1.png"
   },
   {
     "name": "Dark Swatchy",
@@ -2158,8 +2158,8 @@
     "short_slug": "darkswatchy",
     "slug": "darkswatchy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkswatchy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darkswatchy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darkswatchy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darkswatchy.1.png"
   },
   {
     "name": "Dark Zelda",
@@ -2167,8 +2167,8 @@
     "short_slug": "darkzelda",
     "slug": "darkzelda.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkzelda.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darkzelda.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darkzelda.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darkzelda.1.png"
   },
   {
     "name": "Dark Zora",
@@ -2176,8 +2176,8 @@
     "short_slug": "darkzora",
     "slug": "darkzora.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/darkzora.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/darkzora.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/darkzora.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/darkzora.2.png"
   },
   {
     "name": "Deadpool (SirCzah)",
@@ -2185,8 +2185,8 @@
     "short_slug": "deadpool",
     "slug": "deadpool.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadpool.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/deadpool.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/deadpool.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/deadpool.1.png"
   },
   {
     "name": "Deadpool (Mythic)",
@@ -2194,8 +2194,8 @@
     "short_slug": "deadpool-mythic",
     "slug": "deadpool-mythic.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadpool-mythic.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/deadpool-mythic.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/deadpool-mythic.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/deadpool-mythic.1.png"
   },
   {
     "name": "Deadrock",
@@ -2203,8 +2203,8 @@
     "short_slug": "deadrock",
     "slug": "deadrock.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/deadrock.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/deadrock.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/deadrock.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/deadrock.1.png"
   },
   {
     "name": "Decidueye",
@@ -2212,8 +2212,8 @@
     "short_slug": "decidueye",
     "slug": "decidueye.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/decidueye.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/decidueye.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/decidueye.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/decidueye.1.png"
   },
   {
     "name": "Dekar",
@@ -2221,8 +2221,8 @@
     "short_slug": "dekar",
     "slug": "dekar.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dekar.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/dekar.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/dekar.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/dekar.1.png"
   },
   {
     "name": "Demon Link",
@@ -2230,8 +2230,8 @@
     "short_slug": "demonlink",
     "slug": "demonlink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/demonlink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/demonlink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/demonlink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/demonlink.1.png"
   },
   {
     "name": "Dipper",
@@ -2239,8 +2239,8 @@
     "short_slug": "dipper",
     "slug": "dipper.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dipper.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/dipper.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/dipper.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/dipper.1.png"
   },
   {
     "name": "Dragonite",
@@ -2248,8 +2248,8 @@
     "short_slug": "dragonite",
     "slug": "dragonite.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/dragonite.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/dragonite.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/dragonite.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/dragonite.2.png"
   },
   {
     "name": "Drake The Dragon",
@@ -2257,8 +2257,8 @@
     "short_slug": "drake",
     "slug": "drake.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/drake.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/drake.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/drake.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/drake.2.png"
   },
   {
     "name": "Eggplant",
@@ -2266,8 +2266,8 @@
     "short_slug": "eggplant",
     "slug": "eggplant.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/eggplant.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/eggplant.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/eggplant.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/eggplant.1.png"
   },
   {
     "name": "Ema Skye",
@@ -2275,8 +2275,8 @@
     "short_slug": "ema-skye",
     "slug": "ema-skye.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ema-skye.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ema-skye.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ema-skye.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ema-skye.1.png"
   },
   {
     "name": "EmoSaru",
@@ -2284,8 +2284,8 @@
     "short_slug": "emosaru",
     "slug": "emosaru.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/emosaru.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/emosaru.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/emosaru.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/emosaru.1.png"
   },
   {
     "name": "Ezlo",
@@ -2293,8 +2293,8 @@
     "short_slug": "ezlo",
     "slug": "ezlo.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ezlo.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ezlo.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ezlo.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ezlo.1.png"
   },
   {
     "name": "Fierce Deity Link",
@@ -2302,8 +2302,8 @@
     "short_slug": "fierce-deity-link",
     "slug": "fierce-deity-link.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fierce-deity-link.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/fierce-deity-link.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/fierce-deity-link.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/fierce-deity-link.3.png"
   },
   {
     "name": "Finn Merten",
@@ -2311,8 +2311,8 @@
     "short_slug": "finn",
     "slug": "finn.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/finn.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/finn.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/finn.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/finn.3.png"
   },
   {
     "name": "Finny Bear",
@@ -2320,8 +2320,8 @@
     "short_slug": "finny_bear",
     "slug": "finny_bear.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/finny_bear.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/finny_bear.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/finny_bear.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/finny_bear.1.png"
   },
   {
     "name": "Floodgate Fish",
@@ -2329,8 +2329,8 @@
     "short_slug": "fish_floodgate",
     "slug": "fish_floodgate.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fish_floodgate.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/fish_floodgate.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/fish_floodgate.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/fish_floodgate.1.png"
   },
   {
     "name": "Flavor Guy",
@@ -2338,8 +2338,8 @@
     "short_slug": "flavor_guy",
     "slug": "flavor_guy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/flavor_guy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/flavor_guy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/flavor_guy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/flavor_guy.1.png"
   },
   {
     "name": "Fox Link",
@@ -2347,8 +2347,8 @@
     "short_slug": "foxlink",
     "slug": "foxlink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/foxlink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/foxlink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/foxlink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/foxlink.1.png"
   },
   {
     "name": "Freya Crescent",
@@ -2356,8 +2356,8 @@
     "short_slug": "freya",
     "slug": "freya.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/freya.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/freya.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/freya.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/freya.1.png"
   },
   {
     "name": "Frisk",
@@ -2365,8 +2365,8 @@
     "short_slug": "frisk",
     "slug": "frisk.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/frisk.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/frisk.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/frisk.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/frisk.2.png"
   },
   {
     "name": "Frog Link",
@@ -2374,8 +2374,8 @@
     "short_slug": "froglink",
     "slug": "froglink.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/froglink.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/froglink.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/froglink.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/froglink.3.png"
   },
   {
     "name": "Fujin",
@@ -2383,8 +2383,8 @@
     "short_slug": "fujin",
     "slug": "fujin.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/fujin.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/fujin.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/fujin.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/fujin.2.png"
   },
   {
     "name": "Future Trunks",
@@ -2392,8 +2392,8 @@
     "short_slug": "future_trunks",
     "slug": "future_trunks.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/future_trunks.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/future_trunks.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/future_trunks.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/future_trunks.1.png"
   },
   {
     "name": "Gamer",
@@ -2401,8 +2401,8 @@
     "short_slug": "gamer",
     "slug": "gamer.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gamer.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gamer.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gamer.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gamer.2.png"
   },
   {
     "name": "Mini Ganon",
@@ -2410,8 +2410,8 @@
     "short_slug": "ganon",
     "slug": "ganon.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ganon.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ganon.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ganon.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ganon.2.png"
   },
   {
     "name": "Ganondorf",
@@ -2419,8 +2419,8 @@
     "short_slug": "ganondorf",
     "slug": "ganondorf.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ganondorf.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ganondorf.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ganondorf.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ganondorf.2.png"
   },
   {
     "name": "Garfield",
@@ -2428,8 +2428,8 @@
     "short_slug": "garfield",
     "slug": "garfield.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garfield.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/garfield.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/garfield.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/garfield.2.png"
   },
   {
     "name": "Garnet",
@@ -2437,8 +2437,8 @@
     "short_slug": "garnet",
     "slug": "garnet.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garnet.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/garnet.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/garnet.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/garnet.1.png"
   },
   {
     "name": "Garo Master",
@@ -2446,8 +2446,8 @@
     "short_slug": "garomaster",
     "slug": "garomaster.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/garomaster.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/garomaster.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/garomaster.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/garomaster.1.png"
   },
   {
     "name": "GBC Link",
@@ -2455,8 +2455,8 @@
     "short_slug": "gbc-link",
     "slug": "gbc-link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gbc-link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gbc-link.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gbc-link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gbc-link.1.png"
   },
   {
     "name": "Geno",
@@ -2464,8 +2464,8 @@
     "short_slug": "geno",
     "slug": "geno.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/geno.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/geno.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/geno.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/geno.2.png"
   },
   {
     "name": "GliitchWiitch",
@@ -2473,8 +2473,8 @@
     "short_slug": "gliitchwiitch",
     "slug": "gliitchwiitch.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gliitchwiitch.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gliitchwiitch.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gliitchwiitch.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gliitchwiitch.1.png"
   },
   {
     "name": "Gobli",
@@ -2482,8 +2482,8 @@
     "short_slug": "gobli",
     "slug": "gobli.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gobli.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gobli.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gobli.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gobli.1.png"
   },
   {
     "name": "Gooey",
@@ -2491,8 +2491,8 @@
     "short_slug": "gooey",
     "slug": "gooey.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gooey.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gooey.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gooey.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gooey.1.png"
   },
   {
     "name": "Goomba",
@@ -2500,8 +2500,8 @@
     "short_slug": "goomba",
     "slug": "goomba.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/goomba.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/goomba.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/goomba.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/goomba.1.png"
   },
   {
     "name": "Goose",
@@ -2509,8 +2509,8 @@
     "short_slug": "goose",
     "slug": "goose.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/goose.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/goose.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/goose.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/goose.1.png"
   },
   {
     "name": "GrandPOOBear",
@@ -2518,8 +2518,8 @@
     "short_slug": "grandpoobear",
     "slug": "grandpoobear.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/grandpoobear.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/grandpoobear.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/grandpoobear.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/grandpoobear.2.png"
   },
   {
     "name": "Gretis",
@@ -2527,8 +2527,8 @@
     "short_slug": "gretis",
     "slug": "gretis.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/gretis.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/gretis.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/gretis.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/gretis.1.png"
   },
   {
     "name": "Gruncle Stan",
@@ -2536,8 +2536,8 @@
     "short_slug": "grunclestan",
     "slug": "grunclestan.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/grunclestan.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/grunclestan.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/grunclestan.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/grunclestan.1.png"
   },
   {
     "name": "Guiz",
@@ -2545,8 +2545,8 @@
     "short_slug": "guiz",
     "slug": "guiz.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/guiz.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/guiz.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/guiz.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/guiz.2.png"
   },
   {
     "name": "Hanna",
@@ -2554,8 +2554,8 @@
     "short_slug": "hanna",
     "slug": "hanna.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hanna.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hanna.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hanna.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hanna.1.png"
   },
   {
     "name": "Hardhat Beetle",
@@ -2563,8 +2563,8 @@
     "short_slug": "hardhat_beetle",
     "slug": "hardhat_beetle.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hardhat_beetle.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hardhat_beetle.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hardhat_beetle.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hardhat_beetle.1.png"
   },
   {
     "name": "Hat Kid",
@@ -2572,8 +2572,8 @@
     "short_slug": "hat-kid",
     "slug": "hat-kid.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hat-kid.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hat-kid.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hat-kid.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hat-kid.1.png"
   },
   {
     "name": "Headless Link",
@@ -2581,8 +2581,8 @@
     "short_slug": "headlesslink",
     "slug": "headlesslink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/headlesslink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/headlesslink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/headlesslink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/headlesslink.2.png"
   },
   {
     "name": "Hello Kitty",
@@ -2590,8 +2590,8 @@
     "short_slug": "hello_kitty",
     "slug": "hello_kitty.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hello_kitty.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hello_kitty.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hello_kitty.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hello_kitty.1.png"
   },
   {
     "name": "Hero of Awakening",
@@ -2599,8 +2599,8 @@
     "short_slug": "hero-of-awakening",
     "slug": "hero-of-awakening.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hero-of-awakening.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hero-of-awakening.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hero-of-awakening.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hero-of-awakening.1.png"
   },
   {
     "name": "Hero Of Hyrule ",
@@ -2608,8 +2608,8 @@
     "short_slug": "hero-of-hyrule",
     "slug": "hero-of-hyrule.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hero-of-hyrule.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hero-of-hyrule.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hero-of-hyrule.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hero-of-hyrule.1.png"
   },
   {
     "name": "Hidari",
@@ -2617,8 +2617,8 @@
     "short_slug": "hidari",
     "slug": "hidari.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hidari.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hidari.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hidari.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hidari.1.png"
   },
   {
     "name": "Hint Tile",
@@ -2626,8 +2626,8 @@
     "short_slug": "hint_tile",
     "slug": "hint_tile.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hint_tile.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hint_tile.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hint_tile.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hint_tile.1.png"
   },
   {
     "name": "Hoarder (Bush)",
@@ -2635,8 +2635,8 @@
     "short_slug": "hoarder-bush",
     "slug": "hoarder-bush.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-bush.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hoarder-bush.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hoarder-bush.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hoarder-bush.1.png"
   },
   {
     "name": "Hoarder (Pot)",
@@ -2644,8 +2644,8 @@
     "short_slug": "hoarder-pot",
     "slug": "hoarder-pot.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-pot.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hoarder-pot.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hoarder-pot.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hoarder-pot.1.png"
   },
   {
     "name": "Hoarder (Rock)",
@@ -2653,8 +2653,8 @@
     "short_slug": "hoarder-rock",
     "slug": "hoarder-rock.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hoarder-rock.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hoarder-rock.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hoarder-rock.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hoarder-rock.1.png"
   },
   {
     "name": "Hollow Knight",
@@ -2662,8 +2662,8 @@
     "short_slug": "hollow-knight",
     "slug": "hollow-knight.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hollow-knight.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hollow-knight.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hollow-knight.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hollow-knight.2.png"
   },
   {
     "name": "Hollow Knight (Malmo/Winter)",
@@ -2671,8 +2671,8 @@
     "short_slug": "hollow-knight-winter",
     "slug": "hollow-knight-winter.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hollow-knight-winter.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hollow-knight-winter.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hollow-knight-winter.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hollow-knight-winter.1.png"
   },
   {
     "name": "Homer Simpson",
@@ -2680,8 +2680,8 @@
     "short_slug": "homer",
     "slug": "homer.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/homer.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/homer.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/homer.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/homer.1.png"
   },
   {
     "name": "Hotdog",
@@ -2689,8 +2689,8 @@
     "short_slug": "hotdog",
     "slug": "hotdog.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hotdog.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hotdog.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hotdog.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hotdog.1.png"
   },
   {
     "name": "Hyrule Knight",
@@ -2698,8 +2698,8 @@
     "short_slug": "hyruleknight",
     "slug": "hyruleknight.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/hyruleknight.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/hyruleknight.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/hyruleknight.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/hyruleknight.1.png"
   },
   {
     "name": "iBazly",
@@ -2707,8 +2707,8 @@
     "short_slug": "ibazly",
     "slug": "ibazly.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ibazly.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ibazly.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ibazly.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ibazly.1.png"
   },
   {
     "name": "Ignignokt",
@@ -2716,8 +2716,8 @@
     "short_slug": "ignignokt",
     "slug": "ignignokt.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ignignokt.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ignignokt.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ignignokt.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ignignokt.3.png"
   },
   {
     "name": "Informant Woman",
@@ -2725,8 +2725,8 @@
     "short_slug": "informant_woman",
     "slug": "informant_woman.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/informant_woman.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/informant_woman.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/informant_woman.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/informant_woman.1.png"
   },
   {
     "name": "Inkling",
@@ -2734,8 +2734,8 @@
     "short_slug": "inkling",
     "slug": "inkling.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/inkling.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/inkling.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/inkling.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/inkling.1.png"
   },
   {
     "name": "Invisible Link",
@@ -2743,8 +2743,8 @@
     "short_slug": "invisibleman",
     "slug": "invisibleman.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/invisibleman.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/invisibleman.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/invisibleman.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/invisibleman.1.png"
   },
   {
     "name": "Jack Frost",
@@ -2752,8 +2752,8 @@
     "short_slug": "jack-frost",
     "slug": "jack-frost.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jack-frost.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/jack-frost.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/jack-frost.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/jack-frost.1.png"
   },
   {
     "name": "Jason Frudnick",
@@ -2761,8 +2761,8 @@
     "short_slug": "jason_frudnick",
     "slug": "jason_frudnick.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jason_frudnick.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/jason_frudnick.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/jason_frudnick.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/jason_frudnick.1.png"
   },
   {
     "name": "Jasp",
@@ -2770,8 +2770,8 @@
     "short_slug": "jasp",
     "slug": "jasp.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jasp.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/jasp.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/jasp.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/jasp.1.png"
   },
   {
     "name": "Jogurt",
@@ -2779,8 +2779,8 @@
     "short_slug": "jogurt",
     "slug": "jogurt.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/jogurt.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/jogurt.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/jogurt.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/jogurt.1.png"
   },
   {
     "name": "Kain",
@@ -2788,8 +2788,8 @@
     "short_slug": "kain",
     "slug": "kain.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kain.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kain.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kain.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kain.1.png"
   },
   {
     "name": "Katsura",
@@ -2797,8 +2797,8 @@
     "short_slug": "katsura",
     "slug": "katsura.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/katsura.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/katsura.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/katsura.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/katsura.2.png"
   },
   {
     "name": "Kecleon",
@@ -2806,8 +2806,8 @@
     "short_slug": "kecleon",
     "slug": "kecleon.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kecleon.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kecleon.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kecleon.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kecleon.1.png"
   },
   {
     "name": "Kefka",
@@ -2815,8 +2815,8 @@
     "short_slug": "kefka",
     "slug": "kefka.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kefka.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kefka.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kefka.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kefka.1.png"
   },
   {
     "name": "Kenny McCormick",
@@ -2824,8 +2824,8 @@
     "short_slug": "kenny_mccormick",
     "slug": "kenny_mccormick.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kenny_mccormick.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kenny_mccormick.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kenny_mccormick.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kenny_mccormick.1.png"
   },
   {
     "name": "Ketchup",
@@ -2833,8 +2833,8 @@
     "short_slug": "ketchup",
     "slug": "ketchup.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ketchup.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ketchup.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ketchup.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ketchup.1.png"
   },
   {
     "name": "Kholdstare",
@@ -2842,8 +2842,8 @@
     "short_slug": "kholdstare",
     "slug": "kholdstare.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kholdstare.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kholdstare.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kholdstare.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kholdstare.2.png"
   },
   {
     "name": "King Gothalion",
@@ -2851,8 +2851,8 @@
     "short_slug": "king_gothalion",
     "slug": "king_gothalion.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/king_gothalion.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/king_gothalion.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/king_gothalion.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/king_gothalion.1.png"
   },
   {
     "name": "King Graham",
@@ -2860,8 +2860,8 @@
     "short_slug": "king_graham",
     "slug": "king_graham.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/king_graham.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/king_graham.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/king_graham.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/king_graham.2.png"
   },
   {
     "name": "Kinu",
@@ -2869,8 +2869,8 @@
     "short_slug": "kinu",
     "slug": "kinu.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kinu.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kinu.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kinu.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kinu.1.png"
   },
   {
     "name": "Kirby (Dreamland 3)",
@@ -2878,8 +2878,8 @@
     "short_slug": "kirby-d3",
     "slug": "kirby-d3.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kirby-d3.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kirby-d3.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kirby-d3.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kirby-d3.1.png"
   },
   {
     "name": "Kirby",
@@ -2887,8 +2887,8 @@
     "short_slug": "kirby-meta",
     "slug": "kirby-meta.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kirby-meta.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kirby-meta.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kirby-meta.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kirby-meta.1.png"
   },
   {
     "name": "Kore8",
@@ -2896,8 +2896,8 @@
     "short_slug": "kore8",
     "slug": "kore8.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kore8.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kore8.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kore8.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kore8.1.png"
   },
   {
     "name": "Korok",
@@ -2905,8 +2905,8 @@
     "short_slug": "korok",
     "slug": "korok.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/korok.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/korok.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/korok.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/korok.1.png"
   },
   {
     "name": "Kriv",
@@ -2914,8 +2914,8 @@
     "short_slug": "kriv",
     "slug": "kriv.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/kriv.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/kriv.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/kriv.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/kriv.1.png"
   },
   {
     "name": "Lakitu",
@@ -2923,8 +2923,8 @@
     "short_slug": "lakitu",
     "slug": "lakitu.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lakitu.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lakitu.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lakitu.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lakitu.1.png"
   },
   {
     "name": "Lapras",
@@ -2932,8 +2932,8 @@
     "short_slug": "lapras",
     "slug": "lapras.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lapras.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lapras.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lapras.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lapras.1.png"
   },
   {
     "name": "Lest",
@@ -2941,8 +2941,8 @@
     "short_slug": "lest",
     "slug": "lest.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lest.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lest.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lest.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lest.1.png"
   },
   {
     "name": "Lily",
@@ -2950,8 +2950,8 @@
     "short_slug": "lily",
     "slug": "lily.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lily.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lily.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lily.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lily.1.png"
   },
   {
     "name": "Linja",
@@ -2959,8 +2959,8 @@
     "short_slug": "linja",
     "slug": "linja.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linja.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/linja.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/linja.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/linja.1.png"
   },
   {
     "name": "Link Redrawn",
@@ -2968,8 +2968,8 @@
     "short_slug": "link-redrawn",
     "slug": "link-redrawn.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/link-redrawn.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/link-redrawn.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/link-redrawn.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/link-redrawn.1.png"
   },
   {
     "name": "Hat Color Link",
@@ -2977,8 +2977,8 @@
     "short_slug": "linkhatcolor",
     "slug": "linkhatcolor.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linkhatcolor.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/linkhatcolor.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/linkhatcolor.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/linkhatcolor.1.png"
   },
   {
     "name": "Tunic Color Link",
@@ -2986,8 +2986,8 @@
     "short_slug": "linktuniccolor",
     "slug": "linktuniccolor.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/linktuniccolor.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/linktuniccolor.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/linktuniccolor.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/linktuniccolor.1.png"
   },
   {
     "name": "Little Hylian",
@@ -2995,8 +2995,8 @@
     "short_slug": "little-hylian",
     "slug": "little-hylian.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/little-hylian.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/little-hylian.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/little-hylian.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/little-hylian.1.png"
   },
   {
     "name": "Pony",
@@ -3004,8 +3004,8 @@
     "short_slug": "littlepony",
     "slug": "littlepony.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/littlepony.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/littlepony.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/littlepony.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/littlepony.1.png"
   },
   {
     "name": "Locke",
@@ -3013,8 +3013,8 @@
     "short_slug": "locke",
     "slug": "locke.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/locke.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/locke.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/locke.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/locke.1.png"
   },
   {
     "name": "Figaro Merchant",
@@ -3022,8 +3022,8 @@
     "short_slug": "locke_merchant",
     "slug": "locke_merchant.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/locke_merchant.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/locke_merchant.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/locke_merchant.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/locke_merchant.1.png"
   },
   {
     "name": "Lucario",
@@ -3031,8 +3031,8 @@
     "short_slug": "lucario",
     "slug": "lucario.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lucario.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lucario.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lucario.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lucario.1.png"
   },
   {
     "name": "Luffy",
@@ -3040,8 +3040,8 @@
     "short_slug": "luffy",
     "slug": "luffy.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luffy.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/luffy.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/luffy.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/luffy.2.png"
   },
   {
     "name": "Luigi",
@@ -3049,8 +3049,8 @@
     "short_slug": "luigi",
     "slug": "luigi.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luigi.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/luigi.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/luigi.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/luigi.1.png"
   },
   {
     "name": "Luna Maindo",
@@ -3058,8 +3058,8 @@
     "short_slug": "luna-maindo",
     "slug": "luna-maindo.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/luna-maindo.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/luna-maindo.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/luna-maindo.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/luna-maindo.1.png"
   },
   {
     "name": "Lynel (BotW)",
@@ -3067,8 +3067,8 @@
     "short_slug": "lynel-botw",
     "slug": "lynel-botw.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/lynel-botw.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/lynel-botw.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/lynel-botw.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/lynel-botw.1.png"
   },
   {
     "name": "Madeline",
@@ -3076,8 +3076,8 @@
     "short_slug": "madeline",
     "slug": "madeline.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/madeline.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/madeline.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/madeline.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/madeline.1.png"
   },
   {
     "name": "Magus",
@@ -3085,8 +3085,8 @@
     "short_slug": "magus",
     "slug": "magus.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/magus.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/magus.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/magus.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/magus.1.png"
   },
   {
     "name": "Maiden",
@@ -3094,8 +3094,8 @@
     "short_slug": "maiden",
     "slug": "maiden.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/maiden.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/maiden.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/maiden.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/maiden.1.png"
   },
   {
     "name": "Mallow (Cat)",
@@ -3103,8 +3103,8 @@
     "short_slug": "mallow-cat",
     "slug": "mallow-cat.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mallow-cat.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mallow-cat.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mallow-cat.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mallow-cat.1.png"
   },
   {
     "name": "Manga Link",
@@ -3112,8 +3112,8 @@
     "short_slug": "mangalink",
     "slug": "mangalink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mangalink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mangalink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mangalink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mangalink.2.png"
   },
   {
     "name": "Maple Queen",
@@ -3121,8 +3121,8 @@
     "short_slug": "maplequeen",
     "slug": "maplequeen.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/maplequeen.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/maplequeen.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/maplequeen.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/maplequeen.2.png"
   },
   {
     "name": "Marin",
@@ -3130,8 +3130,8 @@
     "short_slug": "marin",
     "slug": "marin.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/marin.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/marin.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/marin.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/marin.2.png"
   },
   {
     "name": "Mario (Classic)",
@@ -3139,8 +3139,8 @@
     "short_slug": "mario-classic",
     "slug": "mario-classic.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mario-classic.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mario-classic.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mario-classic.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mario-classic.2.png"
   },
   {
     "name": "Tanooki Mario",
@@ -3148,8 +3148,8 @@
     "short_slug": "mario_tanooki",
     "slug": "mario_tanooki.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mario_tanooki.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mario_tanooki.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mario_tanooki.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mario_tanooki.2.png"
   },
   {
     "name": "Mario and Cappy",
@@ -3157,8 +3157,8 @@
     "short_slug": "mariocappy",
     "slug": "mariocappy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mariocappy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mariocappy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mariocappy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mariocappy.1.png"
   },
   {
     "name": "Marisa Kirisame",
@@ -3166,8 +3166,8 @@
     "short_slug": "marisa",
     "slug": "marisa.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/marisa.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/marisa.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/marisa.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/marisa.1.png"
   },
   {
     "name": "Matthias",
@@ -3175,8 +3175,8 @@
     "short_slug": "matthias",
     "slug": "matthias.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/matthias.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/matthias.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/matthias.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/matthias.1.png"
   },
   {
     "name": "Meatwad",
@@ -3184,8 +3184,8 @@
     "short_slug": "meatwad",
     "slug": "meatwad.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/meatwad.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/meatwad.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/meatwad.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/meatwad.2.png"
   },
   {
     "name": "Medallions",
@@ -3193,8 +3193,8 @@
     "short_slug": "medallions",
     "slug": "medallions.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/medallions.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/medallions.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/medallions.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/medallions.1.png"
   },
   {
     "name": "Medli",
@@ -3202,8 +3202,8 @@
     "short_slug": "medli",
     "slug": "medli.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/medli.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/medli.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/medli.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/medli.1.png"
   },
   {
     "name": "Megaman X",
@@ -3211,8 +3211,8 @@
     "short_slug": "megaman-x",
     "slug": "megaman-x.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/megaman-x.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/megaman-x.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/megaman-x.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/megaman-x.2.png"
   },
   {
     "name": "Baby Metroid",
@@ -3220,8 +3220,8 @@
     "short_slug": "metroid",
     "slug": "metroid.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/metroid.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/metroid.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/metroid.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/metroid.1.png"
   },
   {
     "name": "MewLp",
@@ -3229,8 +3229,8 @@
     "short_slug": "mew",
     "slug": "mew.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mew.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mew.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mew.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mew.1.png"
   },
   {
     "name": "Mike Jones",
@@ -3238,8 +3238,8 @@
     "short_slug": "mike-jones",
     "slug": "mike-jones.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mike-jones.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mike-jones.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mike-jones.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mike-jones.2.png"
   },
   {
     "name": "Minish Link",
@@ -3247,8 +3247,8 @@
     "short_slug": "minish_link",
     "slug": "minish_link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/minish_link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/minish_link.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/minish_link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/minish_link.1.png"
   },
   {
     "name": "Minish Cap Link",
@@ -3256,8 +3256,8 @@
     "short_slug": "minishcaplink",
     "slug": "minishcaplink.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/minishcaplink.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/minishcaplink.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/minishcaplink.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/minishcaplink.3.png"
   },
   {
     "name": "missingno",
@@ -3265,8 +3265,8 @@
     "short_slug": "missingno",
     "slug": "missingno.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/missingno.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/missingno.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/missingno.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/missingno.2.png"
   },
   {
     "name": "Moblin",
@@ -3274,8 +3274,8 @@
     "short_slug": "moblin",
     "slug": "moblin.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/moblin.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/moblin.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/moblin.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/moblin.2.png"
   },
   {
     "name": "Modern Link",
@@ -3283,8 +3283,8 @@
     "short_slug": "modernlink",
     "slug": "modernlink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/modernlink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/modernlink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/modernlink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/modernlink.1.png"
   },
   {
     "name": "Mog",
@@ -3292,8 +3292,8 @@
     "short_slug": "mog",
     "slug": "mog.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mog.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mog.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mog.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mog.2.png"
   },
   {
     "name": "Momiji Inubashiri",
@@ -3301,8 +3301,8 @@
     "short_slug": "momiji",
     "slug": "momiji.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/momiji.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/momiji.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/momiji.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/momiji.1.png"
   },
   {
     "name": "Moosh",
@@ -3310,8 +3310,8 @@
     "short_slug": "moosh",
     "slug": "moosh.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/moosh.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/moosh.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/moosh.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/moosh.1.png"
   },
   {
     "name": "Mouse",
@@ -3319,8 +3319,8 @@
     "short_slug": "mouse",
     "slug": "mouse.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mouse.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mouse.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mouse.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mouse.1.png"
   },
   {
     "name": "Ms. Paint Dog",
@@ -3328,8 +3328,8 @@
     "short_slug": "ms-paintdog",
     "slug": "ms-paintdog.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ms-paintdog.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ms-paintdog.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ms-paintdog.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ms-paintdog.1.png"
   },
   {
     "name": "Power Up with Pride Mushroom",
@@ -3337,8 +3337,8 @@
     "short_slug": "mushy",
     "slug": "mushy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/mushy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/mushy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/mushy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/mushy.1.png"
   },
   {
     "name": "Nature Link",
@@ -3346,8 +3346,8 @@
     "short_slug": "naturelink",
     "slug": "naturelink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/naturelink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/naturelink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/naturelink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/naturelink.1.png"
   },
   {
     "name": "Navi",
@@ -3355,8 +3355,8 @@
     "short_slug": "navi",
     "slug": "navi.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/navi.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/navi.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/navi.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/navi.1.png"
   },
   {
     "name": "Navirou",
@@ -3364,8 +3364,8 @@
     "short_slug": "navirou",
     "slug": "navirou.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/navirou.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/navirou.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/navirou.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/navirou.3.png"
   },
   {
     "name": "Ned Flanders",
@@ -3373,8 +3373,8 @@
     "short_slug": "ned-flanders",
     "slug": "ned-flanders.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ned-flanders.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ned-flanders.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ned-flanders.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ned-flanders.1.png"
   },
   {
     "name": "Negative Link",
@@ -3382,8 +3382,8 @@
     "short_slug": "negativelink",
     "slug": "negativelink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/negativelink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/negativelink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/negativelink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/negativelink.1.png"
   },
   {
     "name": "Neosad",
@@ -3391,8 +3391,8 @@
     "short_slug": "neosad",
     "slug": "neosad.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/neosad.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/neosad.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/neosad.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/neosad.2.png"
   },
   {
     "name": "NES Link",
@@ -3400,8 +3400,8 @@
     "short_slug": "neslink",
     "slug": "neslink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/neslink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/neslink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/neslink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/neslink.2.png"
   },
   {
     "name": "Ness",
@@ -3409,8 +3409,8 @@
     "short_slug": "ness",
     "slug": "ness.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ness.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ness.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ness.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ness.2.png"
   },
   {
     "name": "Nia",
@@ -3418,8 +3418,8 @@
     "short_slug": "nia",
     "slug": "nia.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/nia.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/nia.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/nia.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/nia.1.png"
   },
   {
     "name": "Niddraig",
@@ -3427,8 +3427,8 @@
     "short_slug": "niddraig",
     "slug": "niddraig.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/niddraig.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/niddraig.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/niddraig.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/niddraig.1.png"
   },
   {
     "name": "Niko",
@@ -3436,8 +3436,8 @@
     "short_slug": "niko",
     "slug": "niko.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/niko.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/niko.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/niko.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/niko.1.png"
   },
   {
     "name": "Old Man",
@@ -3445,8 +3445,8 @@
     "short_slug": "oldman",
     "slug": "oldman.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/oldman.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/oldman.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/oldman.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/oldman.2.png"
   },
   {
     "name": "Ori",
@@ -3454,8 +3454,8 @@
     "short_slug": "ori",
     "slug": "ori.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ori.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ori.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ori.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ori.2.png"
   },
   {
     "name": "Outline Link",
@@ -3463,8 +3463,8 @@
     "short_slug": "outlinelink",
     "slug": "outlinelink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/outlinelink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/outlinelink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/outlinelink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/outlinelink.1.png"
   },
   {
     "name": "Parallel Worlds Link",
@@ -3472,8 +3472,8 @@
     "short_slug": "parallelworldslink",
     "slug": "parallelworldslink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/parallelworldslink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/parallelworldslink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/parallelworldslink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/parallelworldslink.1.png"
   },
   {
     "name": "Paula",
@@ -3481,8 +3481,8 @@
     "short_slug": "paula",
     "slug": "paula.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/paula.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/paula.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/paula.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/paula.1.png"
   },
   {
     "name": "Princess Peach",
@@ -3490,8 +3490,8 @@
     "short_slug": "peach",
     "slug": "peach.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/peach.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/peach.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/peach.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/peach.1.png"
   },
   {
     "name": "Penguin Link",
@@ -3499,8 +3499,8 @@
     "short_slug": "penguinlink",
     "slug": "penguinlink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/penguinlink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/penguinlink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/penguinlink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/penguinlink.2.png"
   },
   {
     "name": "Pete",
@@ -3508,8 +3508,8 @@
     "short_slug": "pete",
     "slug": "pete.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pete.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pete.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pete.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pete.2.png"
   },
   {
     "name": "Phoenix Wright",
@@ -3517,8 +3517,8 @@
     "short_slug": "phoenix-wright",
     "slug": "phoenix-wright.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/phoenix-wright.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/phoenix-wright.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/phoenix-wright.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/phoenix-wright.1.png"
   },
   {
     "name": "Pikachu",
@@ -3526,8 +3526,8 @@
     "short_slug": "pikachu",
     "slug": "pikachu.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pikachu.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pikachu.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pikachu.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pikachu.2.png"
   },
   {
     "name": "Pink Ribbon Link",
@@ -3535,8 +3535,8 @@
     "short_slug": "pinkribbonlink",
     "slug": "pinkribbonlink.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pinkribbonlink.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pinkribbonlink.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pinkribbonlink.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pinkribbonlink.3.png"
   },
   {
     "name": "Piranha Plant",
@@ -3544,8 +3544,8 @@
     "short_slug": "piranha_plant",
     "slug": "piranha_plant.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/piranha_plant.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/piranha_plant.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/piranha_plant.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/piranha_plant.1.png"
   },
   {
     "name": "Plague Knight",
@@ -3553,8 +3553,8 @@
     "short_slug": "plagueknight",
     "slug": "plagueknight.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/plagueknight.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/plagueknight.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/plagueknight.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/plagueknight.1.png"
   },
   {
     "name": "Pokey",
@@ -3562,8 +3562,8 @@
     "short_slug": "pokey",
     "slug": "pokey.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pokey.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pokey.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pokey.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pokey.2.png"
   },
   {
     "name": "Popoi",
@@ -3571,8 +3571,8 @@
     "short_slug": "popoi",
     "slug": "popoi.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/popoi.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/popoi.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/popoi.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/popoi.1.png"
   },
   {
     "name": "Poppy",
@@ -3580,8 +3580,8 @@
     "short_slug": "poppy",
     "slug": "poppy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/poppy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/poppy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/poppy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/poppy.1.png"
   },
   {
     "name": "Porg Knight",
@@ -3589,8 +3589,8 @@
     "short_slug": "porg_knight",
     "slug": "porg_knight.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/porg_knight.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/porg_knight.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/porg_knight.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/porg_knight.1.png"
   },
   {
     "name": "Power Ranger",
@@ -3598,8 +3598,8 @@
     "short_slug": "power-ranger",
     "slug": "power-ranger.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/power-ranger.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/power-ranger.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/power-ranger.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/power-ranger.1.png"
   },
   {
     "name": "Powerpuff Girl",
@@ -3607,8 +3607,8 @@
     "short_slug": "powerpuff_girl",
     "slug": "powerpuff_girl.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/powerpuff_girl.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/powerpuff_girl.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/powerpuff_girl.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/powerpuff_girl.1.png"
   },
   {
     "name": "Pride Link",
@@ -3616,8 +3616,8 @@
     "short_slug": "pridelink",
     "slug": "pridelink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pridelink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pridelink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pridelink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pridelink.2.png"
   },
   {
     "name": "Primm",
@@ -3625,8 +3625,8 @@
     "short_slug": "primm",
     "slug": "primm.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/primm.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/primm.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/primm.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/primm.1.png"
   },
   {
     "name": "Princess Bubblegum",
@@ -3634,8 +3634,8 @@
     "short_slug": "princess_bubblegum",
     "slug": "princess_bubblegum.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/princess_bubblegum.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/princess_bubblegum.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/princess_bubblegum.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/princess_bubblegum.1.png"
   },
   {
     "name": "The Professor",
@@ -3643,8 +3643,8 @@
     "short_slug": "professor",
     "slug": "professor.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/professor.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/professor.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/professor.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/professor.1.png"
   },
   {
     "name": "Psyduck",
@@ -3652,8 +3652,8 @@
     "short_slug": "psyduck",
     "slug": "psyduck.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/psyduck.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/psyduck.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/psyduck.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/psyduck.2.png"
   },
   {
     "name": "The Pug",
@@ -3661,8 +3661,8 @@
     "short_slug": "pug",
     "slug": "pug.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pug.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pug.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pug.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pug.1.png"
   },
   {
     "name": "Purple Chest",
@@ -3670,8 +3670,8 @@
     "short_slug": "purplechest-bottle",
     "slug": "purplechest-bottle.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/purplechest-bottle.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/purplechest-bottle.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/purplechest-bottle.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/purplechest-bottle.1.png"
   },
   {
     "name": "Pyro",
@@ -3679,8 +3679,8 @@
     "short_slug": "pyro",
     "slug": "pyro.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/pyro.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/pyro.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/pyro.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/pyro.1.png"
   },
   {
     "name": "QuadBanger",
@@ -3688,8 +3688,8 @@
     "short_slug": "quadbanger",
     "slug": "quadbanger.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/quadbanger.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/quadbanger.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/quadbanger.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/quadbanger.1.png"
   },
   {
     "name": "Rainbow Link",
@@ -3697,8 +3697,8 @@
     "short_slug": "rainbowlink",
     "slug": "rainbowlink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rainbowlink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rainbowlink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rainbowlink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rainbowlink.2.png"
   },
   {
     "name": "Rat",
@@ -3706,8 +3706,8 @@
     "short_slug": "rat",
     "slug": "rat.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rat.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rat.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rat.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rat.1.png"
   },
   {
     "name": "Red Mage",
@@ -3715,8 +3715,8 @@
     "short_slug": "red-mage",
     "slug": "red-mage.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/red-mage.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/red-mage.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/red-mage.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/red-mage.1.png"
   },
   {
     "name": "Remeer",
@@ -3724,8 +3724,8 @@
     "short_slug": "remeer",
     "slug": "remeer.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/remeer.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/remeer.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/remeer.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/remeer.1.png"
   },
   {
     "name": "Remus R Black",
@@ -3733,8 +3733,8 @@
     "short_slug": "remus-ruldufus-black",
     "slug": "remus-ruldufus-black.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/remus-ruldufus-black.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/remus-ruldufus-black.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/remus-ruldufus-black.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/remus-ruldufus-black.1.png"
   },
   {
     "name": "Rick",
@@ -3742,8 +3742,8 @@
     "short_slug": "rick",
     "slug": "rick.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rick.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rick.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rick.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rick.2.png"
   },
   {
     "name": "Robo-Link 9000",
@@ -3751,8 +3751,8 @@
     "short_slug": "robotlink",
     "slug": "robotlink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/robotlink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/robotlink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/robotlink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/robotlink.2.png"
   },
   {
     "name": "Rocko",
@@ -3760,8 +3760,8 @@
     "short_slug": "rocko",
     "slug": "rocko.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rocko.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rocko.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rocko.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rocko.2.png"
   },
   {
     "name": "Rottytops",
@@ -3769,8 +3769,8 @@
     "short_slug": "rottytops",
     "slug": "rottytops.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rottytops.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rottytops.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rottytops.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rottytops.1.png"
   },
   {
     "name": "Rover",
@@ -3778,8 +3778,8 @@
     "short_slug": "rover",
     "slug": "rover.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rover.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rover.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rover.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rover.1.png"
   },
   {
     "name": "Roy Koopa",
@@ -3787,8 +3787,8 @@
     "short_slug": "roykoopa",
     "slug": "roykoopa.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/roykoopa.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/roykoopa.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/roykoopa.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/roykoopa.1.png"
   },
   {
     "name": "Rumia",
@@ -3796,8 +3796,8 @@
     "short_slug": "rumia",
     "slug": "rumia.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rumia.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rumia.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rumia.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rumia.1.png"
   },
   {
     "name": "Rydia",
@@ -3805,8 +3805,8 @@
     "short_slug": "rydia",
     "slug": "rydia.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/rydia.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/rydia.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/rydia.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/rydia.1.png"
   },
   {
     "name": "Ryu",
@@ -3814,8 +3814,8 @@
     "short_slug": "ryu",
     "slug": "ryu.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ryu.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ryu.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ryu.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ryu.1.png"
   },
   {
     "name": "Sailor Moon",
@@ -3823,8 +3823,8 @@
     "short_slug": "sailormoon",
     "slug": "sailormoon.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sailormoon.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sailormoon.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sailormoon.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sailormoon.1.png"
   },
   {
     "name": "Saitama",
@@ -3832,8 +3832,8 @@
     "short_slug": "saitama",
     "slug": "saitama.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/saitama.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/saitama.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/saitama.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/saitama.2.png"
   },
   {
     "name": "Samus",
@@ -3841,8 +3841,8 @@
     "short_slug": "samus",
     "slug": "samus.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/samus.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/samus.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/samus.2.png"
   },
   {
     "name": "Samus (Super Metroid)",
@@ -3850,8 +3850,8 @@
     "short_slug": "samus-sm",
     "slug": "samus-sm.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus-sm.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/samus-sm.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/samus-sm.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/samus-sm.1.png"
   },
   {
     "name": "Samus (Classic)",
@@ -3859,8 +3859,8 @@
     "short_slug": "samus_classic",
     "slug": "samus_classic.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/samus_classic.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/samus_classic.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/samus_classic.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/samus_classic.1.png"
   },
   {
     "name": "Santa Hat Link",
@@ -3868,8 +3868,8 @@
     "short_slug": "santahat-link",
     "slug": "santahat-link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/santahat-link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/santahat-link.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/santahat-link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/santahat-link.1.png"
   },
   {
     "name": "Santa Link",
@@ -3877,8 +3877,8 @@
     "short_slug": "santalink",
     "slug": "santalink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/santalink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/santalink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/santalink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/santalink.2.png"
   },
   {
     "name": "Scholar",
@@ -3886,8 +3886,8 @@
     "short_slug": "scholar",
     "slug": "scholar.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/scholar.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/scholar.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/scholar.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/scholar.1.png"
   },
   {
     "name": "Selan",
@@ -3895,8 +3895,8 @@
     "short_slug": "selan",
     "slug": "selan.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/selan.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/selan.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/selan.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/selan.2.png"
   },
   {
     "name": "SevenS1ns",
@@ -3904,8 +3904,8 @@
     "short_slug": "sevens1ns",
     "slug": "sevens1ns.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sevens1ns.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sevens1ns.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sevens1ns.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sevens1ns.1.png"
   },
   {
     "name": "Shadow",
@@ -3913,8 +3913,8 @@
     "short_slug": "shadow",
     "slug": "shadow.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shadow.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shadow.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shadow.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shadow.1.png"
   },
   {
     "name": "Shadow Sakura",
@@ -3922,8 +3922,8 @@
     "short_slug": "shadowsaku",
     "slug": "shadowsaku.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shadowsaku.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shadowsaku.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shadowsaku.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shadowsaku.2.png"
   },
   {
     "name": "Shantae",
@@ -3931,8 +3931,8 @@
     "short_slug": "shantae",
     "slug": "shantae.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shantae.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shantae.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shantae.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shantae.1.png"
   },
   {
     "name": "Shuppet",
@@ -3940,8 +3940,8 @@
     "short_slug": "shuppet",
     "slug": "shuppet.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shuppet.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shuppet.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shuppet.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shuppet.2.png"
   },
   {
     "name": "Shy Gal",
@@ -3949,8 +3949,8 @@
     "short_slug": "shy-gal",
     "slug": "shy-gal.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shy-gal.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shy-gal.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shy-gal.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shy-gal.1.png"
   },
   {
     "name": "Shy Guy",
@@ -3958,8 +3958,8 @@
     "short_slug": "shy-guy",
     "slug": "shy-guy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/shy-guy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/shy-guy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/shy-guy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/shy-guy.1.png"
   },
   {
     "name": "SighnWaive",
@@ -3967,8 +3967,8 @@
     "short_slug": "sighn_waive",
     "slug": "sighn_waive.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sighn_waive.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sighn_waive.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sighn_waive.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sighn_waive.1.png"
   },
   {
     "name": "Skunk",
@@ -3976,8 +3976,8 @@
     "short_slug": "skunk",
     "slug": "skunk.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/skunk.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/skunk.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/skunk.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/skunk.1.png"
   },
   {
     "name": "DQ Slime",
@@ -3985,8 +3985,8 @@
     "short_slug": "slime",
     "slug": "slime.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/slime.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/slime.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/slime.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/slime.1.png"
   },
   {
     "name": "Slowpoke",
@@ -3994,8 +3994,8 @@
     "short_slug": "slowpoke",
     "slug": "slowpoke.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/slowpoke.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/slowpoke.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/slowpoke.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/slowpoke.2.png"
   },
   {
     "name": "SNES Controller",
@@ -4003,8 +4003,8 @@
     "short_slug": "snes-controller",
     "slug": "snes-controller.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/snes-controller.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/snes-controller.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/snes-controller.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/snes-controller.2.png"
   },
   {
     "name": "Soda Can",
@@ -4012,8 +4012,8 @@
     "short_slug": "sodacan",
     "slug": "sodacan.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sodacan.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sodacan.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sodacan.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sodacan.1.png"
   },
   {
     "name": "Solaire of Astora",
@@ -4021,8 +4021,8 @@
     "short_slug": "solaire",
     "slug": "solaire.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/solaire.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/solaire.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/solaire.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/solaire.1.png"
   },
   {
     "name": "Hyrule Soldier",
@@ -4030,8 +4030,8 @@
     "short_slug": "soldiersprite",
     "slug": "soldiersprite.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/soldiersprite.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/soldiersprite.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/soldiersprite.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/soldiersprite.1.png"
   },
   {
     "name": "Sonic the Hedgehog",
@@ -4039,8 +4039,8 @@
     "short_slug": "sonic",
     "slug": "sonic.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sonic.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sonic.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sonic.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sonic.1.png"
   },
   {
     "name": "Sora",
@@ -4048,8 +4048,8 @@
     "short_slug": "sora",
     "slug": "sora.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sora.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sora.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sora.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sora.1.png"
   },
   {
     "name": "Sora (KH1)",
@@ -4057,8 +4057,8 @@
     "short_slug": "sora_kh1",
     "slug": "sora_kh1.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/sora_kh1.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/sora_kh1.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/sora_kh1.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/sora_kh1.1.png"
   },
   {
     "name": "SpongeBob SquarePants",
@@ -4066,8 +4066,8 @@
     "short_slug": "spongebob",
     "slug": "spongebob.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/spongebob.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/spongebob.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/spongebob.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/spongebob.1.png"
   },
   {
     "name": "Squall",
@@ -4075,8 +4075,8 @@
     "short_slug": "squall",
     "slug": "squall.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squall.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/squall.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/squall.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/squall.1.png"
   },
   {
     "name": "Squirrel",
@@ -4084,8 +4084,8 @@
     "short_slug": "squirrel",
     "slug": "squirrel.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squirrel.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/squirrel.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/squirrel.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/squirrel.1.png"
   },
   {
     "name": "Squirtle",
@@ -4093,8 +4093,8 @@
     "short_slug": "squirtle",
     "slug": "squirtle.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/squirtle.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/squirtle.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/squirtle.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/squirtle.1.png"
   },
   {
     "name": "Stalfos",
@@ -4102,8 +4102,8 @@
     "short_slug": "stalfos",
     "slug": "stalfos.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/stalfos.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/stalfos.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/stalfos.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/stalfos.1.png"
   },
   {
     "name": "Stan",
@@ -4111,8 +4111,8 @@
     "short_slug": "stan",
     "slug": "stan.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/stan.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/stan.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/stan.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/stan.2.png"
   },
   {
     "name": "Static Link",
@@ -4120,8 +4120,8 @@
     "short_slug": "staticlink",
     "slug": "staticlink.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/staticlink.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/staticlink.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/staticlink.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/staticlink.2.png"
   },
   {
     "name": "Steamed Ham",
@@ -4129,8 +4129,8 @@
     "short_slug": "steamedhams",
     "slug": "steamedhams.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/steamedhams.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/steamedhams.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/steamedhams.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/steamedhams.1.png"
   },
   {
     "name": "Stick Man",
@@ -4138,8 +4138,8 @@
     "short_slug": "stick_man",
     "slug": "stick_man.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/stick_man.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/stick_man.1.png",
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/stick_man.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/stick_man.1.png",
     "tags": {
       "gender": [
         "Neutral"
@@ -4162,8 +4162,8 @@
     "short_slug": "superbomb",
     "slug": "superbomb.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/superbomb.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/superbomb.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/superbomb.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/superbomb.1.png"
   },
   {
     "name": "Super Bunny",
@@ -4171,8 +4171,8 @@
     "short_slug": "superbunny",
     "slug": "superbunny.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/superbunny.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/superbunny.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/superbunny.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/superbunny.2.png"
   },
   {
     "name": "Super Meat Boy",
@@ -4180,8 +4180,8 @@
     "short_slug": "supermeatboy",
     "slug": "supermeatboy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/supermeatboy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/supermeatboy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/supermeatboy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/supermeatboy.1.png"
   },
   {
     "name": "Susie",
@@ -4189,8 +4189,8 @@
     "short_slug": "susie",
     "slug": "susie.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/susie.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/susie.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/susie.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/susie.1.png"
   },
   {
     "name": "Swatchy",
@@ -4198,8 +4198,8 @@
     "short_slug": "swatchy",
     "slug": "swatchy.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/swatchy.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/swatchy.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/swatchy.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/swatchy.1.png"
   },
   {
     "name": "TASBot",
@@ -4207,8 +4207,8 @@
     "short_slug": "tasbot",
     "slug": "tasbot.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tasbot.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tasbot.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tasbot.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tasbot.1.png"
   },
   {
     "name": "Tea Time",
@@ -4216,8 +4216,8 @@
     "short_slug": "teatime",
     "slug": "teatime.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/teatime.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/teatime.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/teatime.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/teatime.1.png"
   },
   {
     "name": "Terra (Esper)",
@@ -4225,8 +4225,8 @@
     "short_slug": "terra",
     "slug": "terra.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/terra.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/terra.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/terra.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/terra.1.png"
   },
   {
     "name": "Terry",
@@ -4234,8 +4234,8 @@
     "short_slug": "terry",
     "slug": "terry.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/terry.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/terry.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/terry.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/terry.1.png"
   },
   {
     "name": "Tetra Sheet",
@@ -4243,8 +4243,8 @@
     "short_slug": "tetra",
     "slug": "tetra.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tetra.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tetra.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tetra.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tetra.1.png"
   },
   {
     "name": "TGH",
@@ -4252,8 +4252,8 @@
     "short_slug": "tgh",
     "slug": "tgh.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tgh.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tgh.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tgh.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tgh.1.png"
   },
   {
     "name": "Thief",
@@ -4261,8 +4261,8 @@
     "short_slug": "thief",
     "slug": "thief.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thief.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/thief.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thief.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/thief.1.png"
   },
   {
     "name": "ThinkDorm",
@@ -4270,8 +4270,8 @@
     "short_slug": "thinkdorm",
     "slug": "thinkdorm.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thinkdorm.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/thinkdorm.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thinkdorm.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/thinkdorm.1.png"
   },
   {
     "name": "Thomcrow",
@@ -4279,8 +4279,8 @@
     "short_slug": "thomcrow",
     "slug": "thomcrow.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thomcrow.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/thomcrow.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thomcrow.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/thomcrow.1.png"
   },
   {
     "name": "Tile",
@@ -4288,8 +4288,8 @@
     "short_slug": "tile",
     "slug": "tile.3",
     "version": 3,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tile.3.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tile.3.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tile.3.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tile.3.png"
   },
   {
     "name": "Tingle",
@@ -4297,8 +4297,8 @@
     "short_slug": "tingle",
     "slug": "tingle.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tingle.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tingle.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tingle.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tingle.1.png"
   },
   {
     "name": "TMNT",
@@ -4306,8 +4306,8 @@
     "short_slug": "tmnt",
     "slug": "tmnt.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/tmnt.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/tmnt.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/tmnt.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/tmnt.1.png"
   },
   {
     "name": "Toad",
@@ -4315,8 +4315,8 @@
     "short_slug": "toad",
     "slug": "toad.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toad.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/toad.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/toad.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/toad.2.png"
   },
   {
     "name": "Toadette",
@@ -4324,8 +4324,8 @@
     "short_slug": "toadette",
     "slug": "toadette.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toadette.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/toadette.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/toadette.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/toadette.2.png"
   },
   {
     "name": "Captain Toadette",
@@ -4333,8 +4333,8 @@
     "short_slug": "toadette_captain",
     "slug": "toadette_captain.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/toadette_captain.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/toadette_captain.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/toadette_captain.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/toadette_captain.1.png"
   },
   {
     "name": "TotemLinks",
@@ -4342,8 +4342,8 @@
     "short_slug": "totem-links",
     "slug": "totem-links.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/totem-links.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/totem-links.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/totem-links.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/totem-links.1.png"
   },
   {
     "name": "Trogdor the Burninator",
@@ -4351,8 +4351,8 @@
     "short_slug": "trogdor",
     "slug": "trogdor.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/trogdor.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/trogdor.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/trogdor.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/trogdor.2.png"
   },
   {
     "name": "TP Zelda",
@@ -4360,8 +4360,8 @@
     "short_slug": "twilightprincesszelda",
     "slug": "twilightprincesszelda.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/twilightprincesszelda.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/twilightprincesszelda.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/twilightprincesszelda.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/twilightprincesszelda.2.png"
   },
   {
     "name": "TwoFaced",
@@ -4369,8 +4369,8 @@
     "short_slug": "two_faced",
     "slug": "two_faced.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/two_faced.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/two_faced.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/two_faced.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/two_faced.2.png"
   },
   {
     "name": "Ty the Tasmanian Tiger",
@@ -4378,8 +4378,8 @@
     "short_slug": "ty",
     "slug": "ty.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ty.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ty.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ty.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ty.1.png"
   },
   {
     "name": "Ultros",
@@ -4387,8 +4387,8 @@
     "short_slug": "ultros",
     "slug": "ultros.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/ultros.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/ultros.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/ultros.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/ultros.1.png"
   },
   {
     "name": "Valeera",
@@ -4396,8 +4396,8 @@
     "short_slug": "valeera",
     "slug": "valeera.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/valeera.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/valeera.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/valeera.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/valeera.1.png"
   },
   {
     "name": "VanillaLink",
@@ -4405,8 +4405,8 @@
     "short_slug": "vanillalink",
     "slug": "vanillalink.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vanillalink.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vanillalink.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vanillalink.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vanillalink.1.png"
   },
   {
     "name": "Vaporeon",
@@ -4414,8 +4414,8 @@
     "short_slug": "vaporeon",
     "slug": "vaporeon.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vaporeon.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vaporeon.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vaporeon.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vaporeon.1.png"
   },
   {
     "name": "Vegeta",
@@ -4423,8 +4423,8 @@
     "short_slug": "vegeta",
     "slug": "vegeta.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vegeta.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vegeta.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vegeta.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vegeta.1.png"
   },
   {
     "name": "Vera",
@@ -4432,8 +4432,8 @@
     "short_slug": "vera",
     "slug": "vera.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vera.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vera.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vera.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vera.1.png"
   },
   {
     "name": "Vitreous",
@@ -4441,8 +4441,8 @@
     "short_slug": "vitreous",
     "slug": "vitreous.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vitreous.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vitreous.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vitreous.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vitreous.1.png"
   },
   {
     "name": "Vivi",
@@ -4450,8 +4450,8 @@
     "short_slug": "vivi",
     "slug": "vivi.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vivi.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vivi.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vivi.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vivi.1.png"
   },
   {
     "name": "Vivian",
@@ -4459,8 +4459,8 @@
     "short_slug": "vivian",
     "slug": "vivian.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/vivian.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/vivian.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/vivian.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/vivian.1.png"
   },
   {
     "name": "Wario",
@@ -4468,8 +4468,8 @@
     "short_slug": "wario",
     "slug": "wario.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wario.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/wario.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/wario.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/wario.1.png"
   },
   {
     "name": "White Mage",
@@ -4477,8 +4477,8 @@
     "short_slug": "whitemage",
     "slug": "whitemage.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/whitemage.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/whitemage.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/whitemage.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/whitemage.1.png"
   },
   {
     "name": "Will",
@@ -4486,8 +4486,8 @@
     "short_slug": "will",
     "slug": "will.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/will.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/will.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/will.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/will.1.png"
   },
   {
     "name": "Wizzrobe",
@@ -4495,8 +4495,8 @@
     "short_slug": "wizzrobe",
     "slug": "wizzrobe.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wizzrobe.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/wizzrobe.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/wizzrobe.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/wizzrobe.2.png"
   },
   {
     "name": "Wolf Link (Festive)",
@@ -4504,8 +4504,8 @@
     "short_slug": "wolf_link",
     "slug": "wolf_link.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wolf_link.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/wolf_link.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/wolf_link.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/wolf_link.1.png"
   },
   {
     "name": "Wolf Link (TP)",
@@ -4513,8 +4513,8 @@
     "short_slug": "wolf_link_tp",
     "slug": "wolf_link_tp.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/wolf_link_tp.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/wolf_link_tp.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/wolf_link_tp.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/wolf_link_tp.1.png"
   },
   {
     "name": "Yoshi",
@@ -4522,8 +4522,8 @@
     "short_slug": "yoshi",
     "slug": "yoshi.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/yoshi.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/yoshi.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/yoshi.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/yoshi.1.png"
   },
   {
     "name": "Yunica Tovah",
@@ -4531,8 +4531,8 @@
     "short_slug": "yunica",
     "slug": "yunica.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/yunica.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/yunica.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/yunica.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/yunica.2.png"
   },
   {
     "name": "Zandra",
@@ -4540,8 +4540,8 @@
     "short_slug": "zandra",
     "slug": "zandra.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zandra.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zandra.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zandra.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zandra.2.png"
   },
   {
     "name": "Zebra Unicorn",
@@ -4549,8 +4549,8 @@
     "short_slug": "zebraunicorn",
     "slug": "zebraunicorn.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zebraunicorn.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zebraunicorn.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zebraunicorn.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zebraunicorn.1.png"
   },
   {
     "name": "Zeckemyro",
@@ -4558,8 +4558,8 @@
     "short_slug": "zeck",
     "slug": "zeck.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zeck.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zeck.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zeck.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zeck.2.png"
   },
   {
     "name": "Zelda",
@@ -4567,8 +4567,8 @@
     "short_slug": "zelda",
     "slug": "zelda.1",
     "version": 1,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zelda.1.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zelda.1.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zelda.1.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zelda.1.png"
   },
   {
     "name": "Zero Suit Samus",
@@ -4576,8 +4576,8 @@
     "short_slug": "zerosuitsamus",
     "slug": "zerosuitsamus.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zerosuitsamus.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zerosuitsamus.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zerosuitsamus.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zerosuitsamus.2.png"
   },
   {
     "name": "Zora",
@@ -4585,7 +4585,7 @@
     "short_slug": "zora",
     "slug": "zora.2",
     "version": 2,
-    "file": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/zora.2.zspr",
-    "preview": "https://miketrethewey.github.io/alttpr-collection/snes/zelda3/link/sheets/thumbs/zora.2.png"
+    "file": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/zora.2.zspr",
+    "preview": "https://snesrev.github.io/sprites-gfx/snes/zelda3/link/sheets/thumbs/zora.2.png"
   }
 ]
